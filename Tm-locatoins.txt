@@ -1,0 +1,169 @@
+TM ## – Name	LOCATIONS
+TM001 – Focus Punch	Jagged Pass, from Maylene after defeating her
+TM002 – Dragon Claw	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM003 – Flip TurnPokémon figures	Slateport City, from the Aqua grunt nearest the entrace inside
+TM004 – Calm Mind	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM005 – Roar	Route 114, from the man next to his Poochyena
+TM006 – Toxic	Mauville City’s Game Corner
+TM007 – Snowscape	Route 114, on the cliffs past a smashable rock
+TM008 – Bulk Up	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM009 – Bullet Seed	Route 104, from the man close to the northern exit of Petalburg Woods
+TM010 – Hidden Power	Route 117, from the Ninja Kid hidden below the flower field
+TM011 – Sunny Day	Route 124, on the ground, requires Surf
+TM012 – Taunt	Mauville City’s Game Corner
+TM013 – Ice Beam	Lavaridge Town’s outdoor Mart worker
+TM014 – Blizzard	Route 125, from Candice after defeating her
+TM015 – ElectrowebBest video game consoles	Dewford Town’s outdoor Mart workers
+TM016 – Light Screen	Mauville City’s Game Corner
+TM017 – Protect	Mauville City’s Game Corner
+TM018 – Rain Dance	Route 121, on the ground South of the entrance to the Safari Zone
+TM019 – Giga Drain	Mauville City’s Game Corner
+TM020 – Hyper Voice	Lavaridge Town’s outdoor Mart worker
+TM021 – Icy Wind	Dewford Town’s outdoor Mart workers
+TM022 – Solar Beam	Trick House, reward for completing second puzzle
+TM023 – Iron Tail	Meteor Falls, on the ground near the Southern exit
+TM024 – Thunderbolt	Lavaridge Town’s outdoor Mart worker
+TM025 – Thunder	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM026 – Earthquake	Fortree City, from creator Xavier after defeating him
+TM027 – ReturnBest video game consoles	Petalburg City, from Norman after defeating him
+TM028 – Dig	Fallarbor Town, from kid brother of the Fossil Maniac
+TM029 – Psychic	Route 117, from Fantina after defeating her in the flower field
+TM030 – Shadow Ball	Route 117, from Fantina after defeating her in the flower field
+TM031 – Brick Break	Route 117, from Fantina after defeating her in the flower field
+TM032 – Solar Blade	Trick House, reward for completing second puzzle
+TM033 – Reflect	Mauville City’s Game Corner
+TM034 – Teleport	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM035 – Flamethrower	Lavaridge Town’s outdoor Mart worker
+TM036 – Sludge Bomb	Lavaridge Town’s outdoor Mart worker
+TM037 – SandstormBest video game consoles	Route 111, on the ground near the Southern entrance to the desert
+TM038 – Fire Blast	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM039 – Rock Tomb	Route 116, from Roark after defeating him
+TM040 – Aerial Ace	Dewford Town’s outdoor Mart workers
+TM041 – Dragon Dance	Fortree City, from creator Justin after defeating him
+TM042 – Facade	Petalburg City, from Norman after defeating him
+TM043 – Defog	Route 111, from the kid staring at a tree past Fiery Path
+TM044 – Rest	Mauville City’s  Game Corner
+TM045 – Drain Kiss	Verdanturf Town, in the lobby of the Battle Tent
+TM046 – Thief	Slateport City, in the lobby of the Battle Tent
+TM047 – Steel Wing	Granite Cave, from Steven after delivering the letter to him
+TM048 – Meteor BeamBest video game consoles	Petalburg City, from Wally’s dad after defeating Norman
+TM049 – Leech Life	Mauville City’s Game Corner
+TM050 – Overheat	Lavaridge Town, fromFlannery after defeating her
+TM051 – Roost	Route 111, from Dawn after defeating her
+TM052 – Focus Blast	Jagged Pass, from Maylene after defeating her
+TM053 – Energy Ball	Lavaridge Town’s outdoor Mart worker
+TM054 – Grassy Glide	Trick House, reward for completing second puzzle
+TM055 – Expanding Force	Mossdeep City, from Tate and Liza after defeating them
+TM056 – Power up Punch	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM057 – Charge Beam	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM058 – Rising Voltage	Evergrande City, from Volkner after defeating him
+TM059 – Dragon Pulse	Petalburg City, from Wally’s dad after defeating Norman
+TM060 – Drain Punch	Jagged Pass, from Maylene after defeating her
+TM061 – Will-O-Wisp	Lavaridge Town, fromFlannery after defeating her
+TM062 – Silver Wind	Mauville City’s Game Corner
+TM063 – Venoshock	Mauville City’s Game Corner
+TM064 – Explosion	Mauville City’s Game Corner
+TM065 – Shadow Claw	Mauville City’s Game Corner
+TM066 – Dazzling Gleam	Mauville City’s Game Corner
+TM067 – Poltergeist	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM068 – Dual Chop	Petalburg City, from Wally’s dad after defeating Norman
+TM069 – Rock Polish	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM070 – Triple Axel	Route 125, from Candice after defeating her
+TM071 – Stone Edge	Trick House, reward for completing third puzzle
+TM072 – Psyshock	Mauville City’s Game Corner
+TM073 – Thunder Wave	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM074 – Gyro Ball	Mauville City’s Game Corner
+TM075 – Swords Dance	Petalburg City, from Norman after defeating him
+TM076 – Stealth Rock	Route 120, from Byron after defeating him
+TM077 – Flame Charge	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM078 – Low Sweep	Dewford Gym, from Brawly after defeating him
+TM079 – Dark Pulse	Lavaridge Town’s outdoor Mart worker
+TM080 – Rock Slide	Mauville City’s Game Corner
+TM081 – X-Scissor	Route 113, Northeast of the Twins
+TM082 – Sleep Talk	Mauville City’s Game Corner
+TM083 – Scald	Route 111, from Dawn after defeating her
+TM084 – Poison Jab	Mauville City’s Game Corner
+TM085 – Future Sight	Petalburg City, from Wally’s dad after defeating Norman
+TM086 – Grass Knot	Trick House, reward for completing second puzzle
+TM087 -Low Kick	Dewford Town’s outdoor Mart workers
+TM088 – Pluck	Dewford Town’s outdoor Mart workers
+TM089 – U-Turn	Petalburg Woods, from Gardenia after defeating her
+TM090 – Substitute	Fortree City, from creator Isaac after defeating him
+TM091 – Flash Cannon	Route 111, from Dawn after defeating her
+TM092 – Volt Switch	Mauville City’s gym, from Wattson after defeating him
+TM093 – Dragon Tail	Mauville City’s Game Corner
+TM094 – Trailblaze	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM095 – Acrobatics	Fortree City, from Winona after defeating her
+TM096 – Bulldoze	Rustboro gym, from Roxanne after defeating her
+TM097 – Snarl	Dewford Town’s outdoor Mart workers
+TM098 – Work Up	Verdanturf Town, from Ursula after defeating her in a “dance battle”
+TM099 – Wild Charge	New Mauville, on the ground
+TM100 – Dual Wingbeat	Petalburg City, from Wally’s dad after defeating Norman
+TM101 – Superpower	New Mauville, on the ground
+TM102 – Scorching Sands	Mauville City’s Game Corner
+TM103 – Smack Down	Dewford Town’s outdoor Mart workers
+TM104 – Heat Crash	Lavaridge Town, fromFlannery after defeating her
+TM105 – Body Press	Jagged Pass, from Maylene after defeating her
+TM106 – Trick Room	Mossdeep City, from Tate and Liza after defeating them
+TM107 – Brave Bird	Fortree City, from Winona after defeating her
+TM108 – Ice Spinner	Mauville City’s  Game Corner
+TM109 – Bug Bite	Route 104, past the tree that needs Cut North of the Woods
+TM110 – Stomping Tantrum	Route 103, West of the Trick House and past the trees that need to be Cut
+TM111 – Fire Punch	Route 110, from Rival after defeating them
+TM112 – Ice Punch	Route 110, from Rival after defeating them
+TM113 – Thunder Punch	Route 110, from Rival after defeating them
+TM114 – Fire Fang	Route 110, from Rival after defeating them
+TM115 – Ice Fang	Route 110, from Rival after defeating them
+TM116 – Thunder Fang	Route 110, from Rival after defeating them
+TM117 – Psychic Fangs	Route 110, from Rival after defeating them
+TM118 – Poison Fang	Route 110, from Rival after defeating them
+TM119 – Iron Head	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM120 – Liquidation	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM121 – Hydro Pump	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM122 – Drill Run	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM123 – Blaze Kick	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM124 – Pain Split	Route 120, central part of the route, requires Surf
+TM125 – Zen Headbutt	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM126 – Weather Ball	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM127 – Air Slash	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM128 – Hex	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM129 – Mystical Fire	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM130 – Seed Bomb	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM131 – Leaf Blade	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM132 – Knock Off	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM133 – Power Gem	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM134 – Rock Blast	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM135 – Pin Missile	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM136 – Icicle Spear	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM137 – Tail Slap	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM138 – Arm Thrust	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM139 – Foul Play	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM140 – Iron Defense	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM141 – Nasty Plot	Petalburg City, from Norman after defeating him
+TM142 – Earth Power	Jagged Pass, on the ground along the East side
+TM143 – Aura Sphere	Jagged Pass, from Maylene after defeating her
+TM144 – Heat Wave	Lavaridge Town, fromFlannery after defeating her
+TM145 – Hurricane	Fortree City, from Winona after defeating her
+TM146 -Power Whip	Trick House, reward for completing second puzzle
+TM147 – High Horsepower	Route 120, from Byron after defeating him
+TM148 – Bug Buzz	Trick House, reward for completing second puzzle
+TM149 – Phantom Force	Route 115, on the ground, requires Surf
+TM150 – Flare Blitz	Lavaridge Town, fromFlannery after defeating her
+TM151 – Stored Power	Fortree City, from the old woman after completing her puzzle
+TM152 – Gunk Shot	Trick House, reward for completing first puzzle
+TM153 – Tailwind	Fortree City, from Winona after defeating her
+TM154 – Megahorn	Trick House, reward for completing second puzzle
+TM155 – Draco Meteor	Evergrande City, from Dawn after defeating her and Rival
+TM156 – Close Combat	Mauville City, from Wattson after shutting down the generator in New Mauville
+TM157 – Moonblast	Sootopolis City, from Juan after defeating him
+TM158 – Body Slam	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM159 – Play rough	Fallarbor Town, from the former Move Tutor after defeating Flannery
+TM160 – Water Pulse	Route 118, on the ground, past two trainers
+TM161 – Dark Hole	Post  game
+TM162 – Sludge Wave	Mt. Pyre, outside on a rocky ledge
+TM163 – Supercell Slam	Evergrande City, from Volkner after defeating him
+TM164 – Temper Flare	Fiery Path, on the ground in the northwest corner, requires Strength
+TM165 – Scale Shot	Victory Road, floor B2F on the ground, must fight Expert to reach
+TM166 – Psychic Noise	Granite Cave, floor B2F on the ground, requires Mach Bike
+TM167 – Alluring Voice	Rusturf Tunnel, on the ground near the Verdanturf Town entrance
+TM168 – Vacuum Wave	Route 110, on the ground below Cycling Road

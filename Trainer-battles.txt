@@ -1,0 +1,535 @@
+All battles within the game
+
+ROXANNE												
+Rhyhorn @ Rindo Berry		Wooper-Paldea @ Oran Berry		Gligar @ Oran Berry		Nosepass @ Berry Juice						
+Level: 14		Level: 15		Level: 15		Level: 15						
+Adamant Nature		Modest Nature		Adamant Nature		Impish Nature						
+Ability: Lightning Rod		Ability: Water Absorb		Ability: Sand Veil		Ability: Sturdy						
+- Rock Tomb		- Mud Shot		- Wing Attack		- Rock Blast						
+- Horn Attack		- Acid Spray		- Quick Attack		- Spark						
+- Bulldoze		- Yawn		- Bulldoze		- Thunder Wave						
+- Rock Smash		- Sandstorm				- Bulldoze						
+												
+												
+												
+BRAWLY												
+Pikachu-Libre @ Light Ball		Sandslash-Alola @ Chople Berry		Lycanroc-Dusk @ Muscle Band		Gurdurr @ Eviolite		Hariyama @ Sitrus Berry				
+Level: 23		Level: 24		Level: 25		Level: 25		Level: 25				
+Timid Nature		Jolly Nature		Jolly Nature		Adamant Nature		Adamant Nature				
+Ability: Lightning Rod		Ability: Ice Scales		Ability: Tough Claws		Ability: Iron Fist		Ability: Thick Fat				
+IVs: 30 Def / 30 SpA / 30 SpD / 30 Spe		- Ice Shard		- Low Sweep		- Mach Punch		- Fake Out				
+- Fake Out		- Aerial Ace		- Accelerock		- Fire Punch		- Low Sweep				
+- Electroweb		- Bulldoze		- Bulldoze		- Low Sweep		- Bullet Punch				
+- Hidden Power Fighting		- Cut		- Rock Tomb		- Thunder Punch		- Bulk Up				
+- Draining Kiss												
+												
+												
+												
+WATTSON												
+Dedenne @ Terrain Extender		Kilowattrel @ Charti Berry		Magneton @ Eviolite		Vikavolt @ Occa Berry		Luxray	-mega @ Luxite			
+Level: 34		Level: 34		Level: 34		Level: 34		Level: 34				
+Timid Nature		Timid Nature		Modest Nature		Modest Nature		Jolly Nature		.baseHP = 95		
+Ability: Electric Surge		Ability: Volt Absorb		Ability: Analytic		Ability: Levitate		Ability: Intimidate	Ability: Strong Jaw	.baseAttack = 130		
+IVs: 30 Spe		- Air Slash		- Shock Wave		- Bug Buzz		- Thunder Fang		.baseDefense = 79		
+- Parabolic Charge		- Electroweb		- Mirror Shot		- Air Slash		- Bite		.baseSpAttack = 110		
+- Volt Switch		- Volt Switch		- Volt Switch		- Energy Ball		- Psychic Fangs		.baseSpDefense = 79		
+- Draining Kiss		- Roost		- Tri Attack		- Charge Beam		- Ice Fang		.baseSpeed = 130		
+- Hidden Power Ice		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe				
+EVs: 6 HP / 252 SpA / 252 Spe												
+												
+												
+FLANNERY												
+Ninetales @ Heat Rock		Walking Wake @ Choice Scarf		Scovillain @ Life Orb		Rotom-Heat @ Leftovers		Torkoal @ White Herb		Infernape	-mega @ Infernapite	
+Level: 47		Level: 47		Level: 47		Level: 47		Level: 47		Level: 47		
+Timid Nature		Timid Nature		Modest Nature		Bold Nature		Quiet Nature		Adamant Nature		.baseHP = 76
+Ability: Drought		Ability: Protosynthesis	-> SpAtk	Ability: Chlorophyll		Ability: Levitate		Ability: Drought		Ability: Blaze	Ability: Adaptability	.baseAttack = 137
+- Flamethrower		- Hydro Steam		- Giga Drain		- Thunderbolt		- Overheat		- Flare Blitz		.baseDefense = 71
+- Energy Ball		- Flamethrower		- Flamethrower		- Will-O-Wisp		- Earth Power		- Close Combat		.baseSpAttack = 137
+- Roar		- Dragon Pulse		- Scorching Sands		- Overheat		- Solar Beam		- Mach Punch		.baseSpDefense = 71
+- Scorching Sands		- Hidden Power Poison		- Sunny Day		- Pain Split		- Explosion		- Thunder Punch		.baseSpeed = 142
+EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 252 Def / 252 SpA / 6 SpD		EVs: 252 HP / 6 Atk / 252 SpA		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+NORMAN												
+Zoroark-Hisui @ Focus Sash		Iron Valiant @ Booster Energy		Ursaluna-Bloodmoon @ Expert Belt		Cyclizar @ Sitrus Berry		Slaking 	-mega @ Slakite			Obstagoon @ Flame Orb
+Level: 59		Level: 59		Level: 59		Level: 59		Level: 59				Level: 59
+Timid Nature		Jolly Nature		Modest Nature		Jolly Nature		Jolly Nature		.baseHP = 150,		Jolly Nature
+Ability: Illusion		Ability: Quark Drive		Ability: Mind's Eye		Ability: Regenerator		Ability: Truant	Ability: Comatose	.baseAttack = 160,		Ability: Guts
+- Bitter Malice		- Close Combat		IVs: 30 Atk / 30 Def		- Shed Tail		- Return		.baseDefense = 110,		- Facade
+- Aura Sphere		- Spirit Break		- Earth Power		- Aqua Tail		- Play Rough		.baseSpAttack = 60,		- Knock Off
+- Hyper Voice		- Bulk Up		- Blood Moon		- Dragon Claw		- Power-Up Punch		.baseSpDefense = 110,		- Brick Break
+- Sludge Bomb		- Knock Off		- Hyper Voice		- Return		- Earthquake		.baseSpeed = 110		- Obstruct
+EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		- Hidden Power Ice		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe				EVs: 6 HP / 252 Atk / 252 Spe
+				EVs: 6 HP / 252 SpA / 252 Spe								
+												
+WINONA												
+Staraptor @ Choice Band		Aggron @ Assault Vest		Flygon @ Life Orb		Frosmoth @ Heavy-Duty Boots		Thundurus-Therian @ Focus Sash		Altaria-Mega @ Altarianite		
+Level: 68		Level: 68		Level: 68		Level: 68		Level: 68		Level: 68		
+Jolly Nature		Adamant Nature		Naive Nature		Timid Nature		Timid Nature		Jolly Nature		
+Ability: Intimidate		Ability: Rock Head		Ability: Tinted Lens		Ability: Ice Scales		Ability: Volt Absorb		Ability: Pixilate		
+- U-turn		- Head Smash		- Headlong Rush		- Ice Beam		IVs: 30 SpA / 30 SpD / 30 Spe		- Earthquake		
+- Double-Edge		- Heavy Slam		- Draco Meteor		- Giga Drain		- Thunderbolt		- Dragon Claw		
+- Brave Bird		- Fire Punch		- Dual Wingbeat		- Bug Buzz		- Grass Knot		- Return		
+- Close Combat		- Body Press		- Rock Slide		- Quiver Dance		- Sludge Wave		- Dragon Dance		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Def		EVs: 252 Atk / 6 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		- Hidden Power Flying		EVs: 6 HP / 252 Atk / 252 Spe		
+								EVs: 6 HP / 252 SpA / 252 Spe				
+												
+TATE		DOUBLE BATTLE		DOUBLE BATTLE		LIZA						
+Tapu Lele @ Terrain Extender		Espathra @ Focus Sash		Kangaskhan @ Kangaskhanite		Iron Leaves @ Choice Scarf		Farigiraf @ Assault Vest		Alakazam-Mega @ Alakazite		
+Level: 76		Level: 76		Level: 76		Level: 76		Level: 76		Level: 76		
+Timid Nature		Timid Nature		Jolly Nature		Jolly Nature		Modest Nature		Timid Nature		
+Ability: Psychic Surge		Ability: Speed Boost		Ability: Parental Bond		Ability: Sharpness		Ability: Parental Bond		Ability: Trace		
+- Moonblast		IVs: 30 Def / 30 SpA / 30 SpD / 30 Spe		- Power-Up Punch		- Leaf Blade		- Expanding Force		- Expanding Force		
+- Psychic		- Lumina Crash		- Body Slam		- Psyblade		- Hyper Voice		- Psyshock		
+- Thunderbolt		- Air Slash		- Crunch		- Sacred Sword		- Dazzling Gleam		- Focus Blast		
+- Calm Mind		- Flash Cannon		- Brick Break		- Night Slash		- Psychic		- Shadow Ball		
+EVs: 6 HP / 252 SpA / 252 Spe		- Hidden Power Fighting		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		
+		EVs: 6 HP / 252 SpA / 252 Spe										
+												
+JUAN												
+Tapu Fini @ Terrain Extender		Tinkaton @ Shuca Berry		Rapidash-Galar @ Life Orb		Ursaluna @ Assault Vest		Flutter Mane @ Choice Specs		Diancie-Mega @ Diancite		
+Level: 82		Level: 82		Level: 82		Level: 82		Level: 82		Level: 82		
+Timid Nature		Jolly Nature		Jolly Nature		Adamant Nature		Timid Nature		Timid Nature		
+Ability: Misty Surge		Ability: Own Tempo		Ability: Flash Fire		Ability: Bulletproof		Ability: Protosynthesis		Ability: Magic Bounce		
+- Moonblast		- Gigaton Hammer		- Flare Blitz		- Return		- Energy Ball		- Moonblast		
+- Ice Beam		- Play Rough		- Play Rough		- Close Combat		- Shadow Ball		- Diamond Storm		
+- Surf		- Stone Edge		- Wild Charge		- Headlong Rush		- Moonblast		- Earth Power		
+- Flip Turn		- Brick Break		- Swords Dance		- Play Rough		- Psyshock		- Calm Mind		
+EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		
+
+MAY/BRENDAN with Treecko	Route 103											
+Treecko	these are the only "boss battles" that are randomized											
+Level: 5												
+												
+												
+MAY/BRENDAN with Torchic	Route 103											
+Torchic												
+Level: 5												
+												
+												
+MAY/BRENDAN with Mudkip	Route 103											
+Mudkip												
+Level: 5												
+												
+												
+DAWN	Route 104											
+Buneary @ Oran Berry		Noibat @ Oran Berry		Piplup @ Oran Berry								
+Player's Highest Lv -3		Player's Highest Lv -2		Player's Highest Lv -1								
+Adamant Nature		Timid Nature		Serious Nature								
+Ability: Limber		Ability: Infiltrator		Ability: Torrent								
+- Fake Out		- Gust		- Bubble Beam								
+- Quick Attack		- Absorb		- Aqua Jet								
+- Mach Punch		- Twister		- Baby-Doll Eyes								
+				- Peck								
+												
+												
+MAY/BRENDAN with Treecko	Rustboro City											
+Golbat @ Muscle Band		Hattrem @ Wise Glasses		Kubfu @ Muscle Band		Grovyle @ Sitrus Berry						
+Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -1						
+Jolly Nature		Modest Nature		Adamant Nature		Adamant Nature						
+Ability: Sniper		Ability: Magic Bounce		Ability: Inner Focus		Ability: Overgrow						
+- Wing Attack		- Draining Kiss		- Rock Smash		- Bullet Seed						
+- Cross Poison		- Psybeam		- Aerial Ace		- Rock Tomb						
+- Bite		- Thunder Wave		- Headbutt		- Fury Cutter						
+- U-turn		- Life Dew		- Rock Tomb		- Assurance						
+												
+												
+												
+MAY/BRENDAN with Torchic	Rustboro City											
+Golbat @ Muscle Band		Hattrem @ Wise Glasses		Kubfu @ Muscle Band		Combusken @ Sitrus Berry						
+Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -1						
+Jolly Nature		Modest Nature		Adamant Nature		Adamant Nature						
+Ability: Sniper		Ability: Magic Bounce		Ability: Inner Focus		Ability: Striker						
+- Wing Attack		- Draining Kiss		- Rock Smash		- Double Kick						
+- Cross Poison		- Psybeam		- Aerial Ace		- Rock Tomb						
+- Bite		- Thunder Wave		- Headbutt		- Flame Charge						
+- U-turn		- Life Dew		- Thunder Punch		- Thunder Punch						
+												
+												
+												
+MAY/BRENDAN with Mudkip	Rustboro City											
+Golbat @ Muscle Band		Hattrem @ Wise Glasses		Kubfu @ Muscle Band		Marshtomp @ Sitrus Berry						
+Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -1						
+Jolly Nature		Modest Nature		Adamant Nature		Quiet Nature						
+Ability: Sniper		Ability: Magic Bounce		Ability: Inner Focus		Ability: Torrent						
+- Wing Attack		- Draining Kiss		- Rock Smash		- Water Pulse						
+- Cross Poison		- Psybeam		- Aerial Ace		- Rock Tomb						
+- Bite		- Thunder Wave		- Headbutt		- Mud Shot						
+- U-turn		- Life Dew		- Fire Punch		- Ice Punch						
+												
+												
+												
+MAY/BRENDAN with Treecko	Route 110											
+Crobat @ Muscle Band		Dragonair @ Eviolite		Gorebyss @ Sitrus Berry		Kubfu @ Punching Glove		Grovyle @ Focus Sash				
+Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -2		Player's Highest Lv				
+Jolly Nature		Impish Nature		Modest Nature		Adamant Nature		Jolly Nature				
+Ability: Sniper		Ability: Shed Skin		Ability: Dazzling		Ability: Inner Focus		Ability: Overgrow				
+- Dual Wingbeat		- Dragon Tail		- Aurora Beam		- Drain Punch		- Leaf Blade				
+- Cross Poison		- Dragon Rage		- Water Pulse		- Fire Punch		- Rock Slide				
+- Bite		- Body Slam		- Draining Kiss		- Thunder Punch		- Power-Up Punch				
+- U-turn		- Thunder Wave		- Psychic		- Ice Punch		- Low Sweep				
+								EVs: 80 Spe				
+												
+												
+MAY/BRENDAN with Torchic	Route 110											
+Crobat @ Muscle Band		Metang @ Eviolite		Whimsicott @ Sitrus Berry		Kubfu @ Punching Glove		Combusken @ Focus Sash				
+Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -2		Player's Highest Lv				
+Jolly Nature		Impish Nature		Timid Nature		Adamant Nature		Modest Nature				
+Ability: Sniper		Ability: Tough Claws		Ability: Prankster		Ability: Inner Focus		Ability: Blaze				
+- Dual Wingbeat		- Metal Claw		- Giga Drain		- Drain Punch		- Flame Burst				
+- Cross Poison		- Bullet Punch		- Stun Spore		- Fire Punch		- Scorching Sands				
+- Bite		- Zen Headbutt		- Leech Seed		- Thunder Punch		- Quick Attack				
+- U-turn		- Bulldoze		- Dazzling Gleam		- Ice Punch		- Counter				
+								EVs: 80 Spe				
+												
+												
+MAY/BRENDAN with Mudkip	Route 110											
+Crobat @ Muscle Band		Sliggoo-Hisui @ Eviolite		Rapidash-Galar @ Sitrus Berry		Kubfu @ Punching Glove		Marshtomp @ Focus Sash				
+Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -2		Player's Highest Lv				
+Jolly Nature		Calm Nature		Jolly Nature		Adamant Nature		Brave Nature				
+Ability: Sniper		Ability: Sap Sipper		Ability: Immunity		Ability: Inner Focus		Ability: Torrent				
+- Dual Wingbeat		- Dragon Breath		- Flame Wheel		- Drain Punch		- Bulldoze				
+- Cross Poison		- Flash Cannon		- Will-O-Wisp		- Fire Punch		- Rock Slide				
+- Bite		- Water Pulse		- Covet		- Thunder Punch		- Liquidation				
+- U-turn		- Life Dew		- Quick Attack		- Ice Punch		- Flip Turn				
+								EVs: 80 Atk				
+												
+												
+WALLY	Mauville City											
+Drednaw @ Sitrus Berry		Kricketune @ Sitrus Berry		Skarmory @ Sitrus Berry		Gardevoir @ Wise Glasses						
+Level: 30		Level: 30		Level: 31		Level: 32						
+Adamant Nature		Jolly Nature		Impish Nature		Timid Nature						
+Ability: Strong Jaw		Ability: Technician		Ability: Sturdy		Ability: Trace						
+- Crunch		- Bug Bite		- Steel Wing		- Draining Kiss						
+- Razor Shell		- Bulldoze		- Drill Peck		- Psychic Noise						
+- Rock Tomb		- Aerial Ace		- Roost		- Magical Leaf						
+- Brick Break		- Rock Smash		- Toxic		- Shadow Ball						
+						EVs: 80 SpA						
+												
+												
+DAWN	Route 111											
+Lopunny @ Silk Scarf		Noivern @ Expert Belt		Tsareena @ Miracle Seed		Chandelure @ Charcoal		Empoleon 	-mega @ Empoleonite D			
+Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -2		Player's Highest Lv -1				
+Jolly Nature		Timid Nature		Jolly Nature		Timid Nature		Bold Nature		.baseHP = 140		
+Ability: Limber		Ability: Infiltrator		Ability: Striker		Ability: Flash Fire		Ability: Torrent	Ability: Lightning Rod	.baseAttack = 75		
+- Fake Out		- Aeroblast		- Trop Kick		- Flamethrower		- Surf		.baseDefense = 145		
+- Return		- Dragon Pulse		- Triple Axel		- Shadow Ball		- Flash Cannon		.baseSpAttack = 75		
+- Thunder Punch		- Boomburst		- High Jump Kick		- Psychic		- Toxic		.baseSpDefense = 145		
+- Drain Punch		- Dark Pulse		- Play Rough		- Will-O-Wisp		- Roost		.baseSpeed = 50		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 252 HP / 252 Def / 6 SpA				
+												
+												
+WALLY	Route 110	after Flannery										
+Sneasler @ Focus Sash		Galvantula @ Expert Belt		Corviknight @ Rocky Helmet		Darmanitan @ Life Orb		Wishiwashi-School @ Assault Vest		Gardevoir @ Gardevoirite		
+Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv -1		Player's Highest Lv		
+Jolly Nature		Timid Nature		Impish Nature		Jolly Nature		Quiet Nature		Timid Nature		
+Ability: Unburden		Ability: Compound Eyes		Ability: Unnerve		Ability: Sheer Force		Ability: Schooling		Ability: Pixilate		
+- Taunt		- Bug Buzz		- Body Press		- Flare Blitz		IVs: 30 Atk / 30 SpA		- Moonblast		
+- Dire Claw		- Thunder		- Drill Peck		- Rock Slide		- Hydro Pump		- Psychic		
+- Close Combat		- Giga Drain		- Iron Head		- Superpower		- Ice Beam		- Focus Blast		
+- Knock Off		- Volt Switch		- Roost		- Earthquake		- Hidden Power Grass		- Thunderbolt		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 252 HP / 6 Atk / 252 Def		EVs: 6 HP / 252 Atk / 252 Spe		- Flip Turn		EVs: 6 HP / 252 SpA / 252 Spe		
+								EVs: 252 HP / 6 Atk / 252 SpA				
+												
+MAY/BRENDAN with Treecko	Route 119											
+Crobat @ Scope Lens		Dragonite @ Lum Berry		Gorebyss @ White Herb		Urshifu @ Expert Belt		Armarouge @ Life Orb		Sceptile-Mega @ Sceptilite		
+Level: 64		Level: 64		Level: 64		Level: 64		Level: 64		Level: 64		
+Jolly Nature		Jolly Nature		Modest Nature		Jolly Nature		Modest Nature		Jolly Nature		
+Ability: Sniper		Ability: Multiscale		Ability: Dazzling		Ability: Unseen Fist		Ability: Mega Launcher		Ability: Technician		
+- Brave Bird		- Dual Wingbeat		- Ice Beam		- Drain Punch		- Armor Cannon		- Dual Chop		
+- Cross Poison		- Dragon Claw		- Surf		- Sucker Punch		- Aura Sphere		- Bullet Seed		
+- Haze		- Iron Head		- Moonblast		- Wicked Blow		- Psychic		- Earthquake		
+- U-turn		- Dragon Dance		- Shell Smash		- Ice Punch		- Shadow Ball		- Swords Dance		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+MAY/BRENDAN with Torchic	Route 119											
+Crobat @ Scope Lens		Metagross @ Air Balloon		Whimsicott @ Leftovers		Urshifu @ Expert Belt		Basculegion-F @ Life Orb		Blaziken-Mega @ Blazikenite		
+Level: 64		Level: 64		Level: 64		Level: 64		Level: 64		Level: 64		
+Jolly Nature		Adamant Nature		Timid Nature		Jolly Nature		Modest Nature		Jolly Nature		
+Ability: Sniper		Ability: Tough Claws		Ability: Prankster		Ability: Unseen Fist		Ability: Adaptability		Ability: Striker		
+- Brave Bird		- Meteor Mash		- Giga Drain		- Drain Punch		- Scald		- Thunderous Kick		
+- Cross Poison		- Earthquake		- Moonblast		- Sucker Punch		- Ice Beam		- Blaze Kick		
+- Haze		- Zen Headbutt		- Leech Seed		- Wicked Blow		- Psychic		- Thunder Punch		
+- U-turn		- Bullet Punch		- Stun Spore		- Ice Punch		- Shadow Ball		- Bulk Up		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+MAY/BRENDAN with Mudkip	Route 119											
+Crobat @ Scope Lens		Goodra-Hisui @ Leftovers		Rapidash-Galar @ Air Balloon		Urshifu @ Expert Belt		Electrode-Hisui @ Life Orb		Swampert-Mega @ Swampertite		
+Level: 64		Level: 64		Level: 64		Level: 64		Level: 64		Level: 64		
+Jolly Nature		Calm Nature		Jolly Nature		Jolly Nature		Modest Nature		Adamant Nature		
+Ability: Sniper		Ability: Sap Sipper		Ability: Flash Fire		Ability: Unseen Fist		Ability: Reckless		Ability: Swift Swim		
+- Brave Bird		- Dragon Pulse		- Fire Lash		- Drain Punch		IVs: 30 Atk / 30 Def		- Liquidation		
+- Cross Poison		- Wish		- Will-O-Wisp		- Sucker Punch		- Thunderbolt		- Earthquake		
+- Haze		- Flash Cannon		- Play Rough		- Wicked Blow		- Chloroblast		- Power-Up Punch		
+- U-turn		- Toxic		- Wild Charge		- Ice Punch		- Volt Switch		- Avalanche		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 252 HP / 6 SpA / 252 SpD		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		- Flash Cannon		EVs: 6 HP / 252 Atk / 252 Spe		
+								EVs: 6 HP / 252 SpA / 252 Spe				
+												
+DAWN	Lilycove City											
+Lopunny @ Life Orb		Noivern @ Choice Specs		Meowscarada @ Expert Belt		Chandelure @ Charcoal		Iron Boulder @ Booster Energy		Empoleon 	-mega @ Empoleonite D	
+Level: 71		Level: 71		Level: 71		Level: 71		Level: 71		Level: 71		
+Jolly Nature		Timid Nature		Jolly Nature		Timid Nature		Jolly Nature		Bold Nature		.baseHP = 140
+Ability: Limber		Ability: Infiltrator		Ability: Protean		Ability: Flash Fire		Ability: Quark Drive		Ability: Torrent	Ability: Lightning Rod	.baseAttack = 75
+- Fake Out		- Aeroblast		- Knock Off		- Flamethrower		- Sacred Sword		- Surf		.baseDefense = 145
+- Return		- Dragon Pulse		- Flower Trick		- Shadow Ball		- Mighty Cleave		- Flash Cannon		.baseSpAttack = 75
+- Thunder Punch		- Boomburst		- Play Rough		- Psychic		- Psycho Cut		- Toxic		.baseSpDefense = 145
+- Close Combat		- Dark Pulse		- U-turn		- Will-O-Wisp		- Megahorn		- Roost		.baseSpeed = 50
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 252 HP / 252 Def / 6 SpA		
+												
+												
+DAWN	Evergrande City											
+Pheromosa @ Focus Sash		Noivern @ Choice Specs		Meowscarada @ Expert Belt		Blacephalon @ Life Orb		Iron Boulder @ Booster Energy		Empoleon 	-mega @ Empoleonite D	
+Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		
+Jolly Nature		Timid Nature		Jolly Nature		Timid Nature		Jolly Nature		Bold Nature		.baseHP = 140
+Ability: Beast Boost		Ability: Infiltrator		Ability: Protean		Ability: Beast Boost		Ability: Quark Drive		Ability: Torrent	Ability: Lightning Rod	.baseAttack = 75
+- U-turn		- Aeroblast		- Knock Off		- Flamethrower		- Sacred Sword		- Surf		.baseDefense = 145
+- Triple Kick		- Draco Meteor		- Flower Trick		- Shadow Ball		- Mighty Cleave		- Flash Cannon		.baseSpAttack = 75
+- Triple Axel		- Boomburst		- Play Rough		- Psychic		- Psycho Cut		- Toxic		.baseSpDefense = 145
+- Poison Jab		- Dark Pulse		- Triple Axel		- Mind Blown		- Megahorn		- Roost		.baseSpeed = 50
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 252 HP / 252 Def / 6 SpA		
+												
+												
+MAY/BRENDAN with Treecko	Evergrande City											
+Crobat @ Scope Lens		Dragonite @ Lum Berry		Tapu Fini @ Misty Seed		Urshifu @ Expert Belt		Volcarona @ Heavy-Duty Boots		Sceptile-Mega @ Sceptilite		
+Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		
+Jolly Nature		Jolly Nature		Timid Nature		Jolly Nature		Timid Nature		Jolly Nature		
+Ability: Sniper		Ability: Multiscale		Ability: Misty Surge		Ability: Unseen Fist		Ability: Flame Body		Ability: Technician		
+- Brave Bird		- Dual Wingbeat		- Ice Beam		- Close Combat		- Fiery Dance		- Dual Chop		
+- Cross Poison		- Dragon Claw		- Hydro Pump		- Sucker Punch		- Bug Buzz		- Bullet Seed		
+- Leech Life		- Iron Head		- Moonblast		- Wicked Blow		- Quiver Dance		- Earthquake		
+- U-turn		- Dragon Dance		- Grass Knot		- Ice Punch		- Giga Drain		- Swords Dance		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+MAY/BRENDAN with Torchic	Evergrande City											
+Crobat @ Scope Lens		Metagross @ Air Balloon		Tapu Bulu @ Grassy Seed		Urshifu @ Expert Belt		Milotic @ Leftovers		Blaziken-Mega @ Blazikenite		
+Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		
+Jolly Nature		Adamant Nature		Jolly Nature		Jolly Nature		Bold Nature		Jolly Nature		
+Ability: Sniper		Ability: Tough Claws		Ability: Grassy Surge		Ability: Unseen Fist		Ability: Competitive		Ability: Striker		
+- Brave Bird		- Meteor Mash		- Wood Hammer		- Close Combat		- Bouncy Bubble		- Thunderous Kick		
+- Cross Poison		- Earthquake		- Play Rough		- Sucker Punch		- Ice Beam		- Blaze Kick		
+- Leech Life		- Zen Headbutt		- Superpower		- Wicked Blow		- Recover		- Thunder Punch		
+- U-turn		- Bullet Punch		- Zen Headbutt		- Ice Punch		- Toxic		- Bulk Up		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 252 HP / 252 Def / 6 SpA		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+MAY/BRENDAN with Mudkip	Evergrande City											
+Crobat @ Scope Lens		Goodra-Hisui @ Leftovers		Tapu Koko @ Electric Seed		Urshifu @ Expert Belt		Ogerpon-Hearthflame @ Hearthflame Mask		Swampert-Mega @ Swampertite		
+Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		
+Jolly Nature		Calm Nature		Jolly Nature		Jolly Nature		Jolly Nature		Adamant Nature		
+Ability: Sniper		Ability: Sap Sipper		Ability: Electric Surge		Ability: Unseen Fist		Ability: Mold Breaker		Ability: Swift Swim		
+- Brave Bird		- Dragon Pulse		- Supercell Slam		- Close Combat		- Ivy Cudgel		- Liquidation		
+- Cross Poison		- Wish		- Return		- Sucker Punch		- Wood Hammer		- Earthquake		
+- Leech Life		- Flash Cannon		- Play Rough		- Wicked Blow		- Throat Chop		- Power-Up Punch		
+- U-turn		- Toxic		- Roost		- Ice Punch		- Swords Dance		- Avalanche		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 252 HP / 6 SpA / 252 SpD		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+WALLY	Victory Road	*before first VR mini boss										
+Sneasler @ Focus Sash		Shaymin-Sky @ Yache Berry		Celesteela @ Power Herb		Darmanitan @ Life Orb		Raging Bolt @ Booster Energy		Gardevoir-Mega @ Gardevoirite		
+Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		
+Jolly Nature		Timid Nature		Modest Nature		Jolly Nature		Timid Nature		Timid Nature		
+Ability: Poison Touch		Ability: Serene Grace		Ability: Beast Boost		Ability: Sheer Force		Ability: Protosynthesis		Ability: Pixilate		
+- Close Combat		- Air Slash		- Meteor Beam		- Flare Blitz		- Dragon Pulse		- Hyper Voice		
+- Dire Claw		- Seed Flare		- Flamethrower		- Superpower		- Thunderclap		- Psychic		
+- Fake Out		- Earth Power		- Air Slash		- Rock Slide		- Thunderbolt		- Focus Blast		
+- Rock Slide		- Psychic		- Flash Cannon		- Earthquake		- Hyper Voice		- Calm Mind		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		
+
+WALLY	Victory Road	*before first VR mini boss		*also listed in Rivals tab						
+Sneasler @ Focus Sash		Shaymin-Sky @ Choice Specs		Celesteela @ Power Herb		Darmanitan @ Life Orb		Raging Bolt @ Booster Energy		Gardevoir-Mega @ Gardevoirite
+Level: 84		Level: 84		Level: 84		Level: 84		Level: 84		Level: 84
+Jolly Nature		Timid Nature		Modest Nature		Jolly Nature		Timid Nature		Timid Nature
+Ability: Poison Touch		Ability: Serene Grace		Ability: Beast Boost		Ability: Sheer Force		Ability: Protosynthesis		Ability: Pixilate
+- Close Combat		- Air Slash		- Meteor Beam		- Flare Blitz		- Dragon Pulse		- Hyper Voice
+- Dire Claw		- Seed Flare		- Flamethrower		- Superpower		- Thunderclap		- Psychic
+- Fake Out		- Earth Power		- Air Slash		- Rock Slide		- Thunderbolt		- Focus Blast
+- Rock Slide		- Psychic		- Flash Cannon		- Earthquake		- Hyper Voice		- Calm Mind
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe
+										
+										
+COOLTRAINER ALBERT										
+Toxapex @ Black Sludge		Mabosstiff @ Choice Band		Sigilyph @ Life Orb		Rhyperior @ Weakness Policy		Venusaur-Mega @ Venusaurite		
+Level: 83		Level: 83		Level: 83		Level: 83		Level: 84		
+Impish Nature		Jolly Nature		Timid Nature		Jolly Nature		Timid Nature		
+Ability: Regenerator		Ability: Stakeout		Ability: Magic Guard		Ability: Solid Rock		Ability: Thick Fat		
+- Toxic Spikes		- Crunch		- Air Slash		- Earthquake		IVs: 30 Atk / 30 SpA / 30 Spe		
+- Haze		- Jaw Lock		- Roost		- Stone Edge		- Solar Beam		
+- Liquidation		- Play Rough		- Stored Power		- Megahorn		- Sludge Bomb		
+- Poison Jab		- Ice Fang		- Cosmic Power		- Thunder Punch		- Earth Power		
+EVs: 252 HP / 6 Atk / 252 Def		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		- Hidden Power Fire		
+								EVs: 6 HP / 252 SpA / 252 Spe		
+										
+COOLTRAINER HOPE										
+Maushold @ Wide Lens		Marowak-Alola @ Thick Club		Togekiss @ Leftovers		Xurkitree @ Life Orb		Orbeetle-Mega @ Orbeetlite		
+Level: 83		Level: 83		Level: 83		Level: 83		Level: 84		
+Jolly Nature		Adamant Nature		Timid Nature		Timid Nature		Timid Nature		
+Ability: Technician		Ability: Rock Head		Ability: Serene Grace		Ability: Beast Boost		Ability: Magic Guard		
+- Population Bomb		- Shadow Bone		- Air Slash		- Thunderbolt		- Bug Buzz		
+- Bite		- Flare Blitz		- Thunder Wave		- Signal Beam		- Psychic		
+- Bullet Seed		- Bonemerang		- Moonblast		- Energy Ball		- Energy Ball		
+- Tidy Up		- Thunder Punch		- Roost		- Tail Glow		- Calm Mind		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		
+										
+										
+COOLTRAINER SAMUEL										
+Mienshao @ Life Orb		Flapple @ Wide Lens		Mr. Rime @ Assault Vest		Inteleon @ Choice Specs		Pinsir-Mega @ Pinsirite		
+Level: 83		Level: 83		Level: 83		Level: 83		Level: 84		
+Jolly Nature		Adamant Nature		Timid Nature		Timid Nature		Jolly Nature		
+Ability: Regenerator		Ability: Hustle		Ability: Screen Cleaner		Ability: Sniper		Ability: Aerilate		
+- Fake Out		- Scale Shot		- Freezy Frost		- Snipe Shot		- X-Scissor		
+- Close Combat		- Grav Apple		- Psychic		- Hydro Pump		- Double-Edge		
+- Poison Jab		- Sucker Punch		- Dazzling Gleam		- Ice Beam		- Swords Dance		
+- U-turn		- Dragon Dance		- Shadow Ball		- Air Slash		- Close Combat		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+										
+										
+COOLTRAINER CAROLINE										
+Weavile @ Life Orb		Magcargo @ Focus Sash		Barraskewda @ Choice Band		Mismagius @ Leftovers		Lopunny-Mega @ Lopunnite		
+Level: 83		Level: 83		Level: 83		Level: 83		Level: 84		
+Jolly Nature		Timid Nature		Jolly Nature		Timid Nature		Jolly Nature		
+Ability: Infiltrator		Ability: Simple		Ability: Swift Swim		Ability: Levitate		Ability: Scrappy		
+- Fake Out		- Shell Smash		- Liquidation		- Moonblast		- Fake Out		
+- Knock Off		- Flamethrower		- Scale Shot		- Hex		- Return		
+- Icicle Crash		- Power Gem		- Close Combat		- Will-O-Wisp		- Power-Up Punch		
+- Low Kick		- Earth Power		- Poison Jab		- Energy Ball		- Play Rough		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+										
+										
+COOLTRAINER FELIX										
+Reuniclus @ Life Orb		Granbull @ Choice Band		Regidrago @ Dragon Fang		Aegislash-Blade @ Leftovers		Manectric-Mega @ Manectite		
+Level: 83		Level: 83		Level: 83		Level: 83		Level: 84		
+Modest Nature		Adamant Nature		Jolly Nature		Bold Nature		Timid Nature		
+Ability: Magic Guard		Ability: Bull Rush		Ability: Dragon's Maw		Ability: Stance Change		Ability: Intimidate		
+- Psychic		- Play Rough		- Dragon Energy		- Shadow Ball		IVs: 30 Atk / 30 SpA		
+- Shadow Ball		- Ice Fang		- Dragon Claw		- Flash Cannon		- Thunderbolt		
+- Focus Blast		- Jaw Lock		- Body Slam		- Toxic		- Flamethrower		
+- Energy Ball		- Crunch		- Dragon Dance		- King's Shield		- Charge Beam		
+EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 252 HP / 252 Def / 6 SpA		- Hidden Power Ice		
+								EVs: 6 HP / 252 SpA / 252 Spe		
+										
+COOLTRAINER MICHELLE										
+Carbink @ Custap Berry		Polteageist @ White Herb		Chatot @ Throat Spray		Torterra @ Leftovers		Aggron-Mega @ Aggronite		
+Level: 83		Level: 83		Level: 83		Level: 83		Level: 84		
+Sassy Nature		Timid Nature		Timid Nature		Impish Nature		Impish Nature		
+Ability: Sturdy		Ability: Heatproof		Ability: Punk Rock		Ability: Self Sufficient		Ability: Filter		
+- Stealth Rock		- Shadow Ball		- Chatter		- Wood Hammer		- Earthquake		
+- Moonblast		- Giga Drain		- Boomburst		- Earthquake		- Stone Edge		
+- Power Gem		- Stored Power		- Synchronoise		- Crunch		- Body Press		
+- Explosion		- Shell Smash		- Hidden Power Grass		- Synthesis		- Heavy Slam		
+EVs: 252 HP / 6 SpA / 252 SpD		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 252 HP / 6 Atk / 252 Def		EVs: 252 HP / 6 Atk / 252 Def		
+
+
+ELITE FOUR DRAKE	SKY PILLAR	DOUBLE BATTLE										
+Salamence @ Life Orb		Magearna @ Leftovers		Archaludon @ Power Herb		Tauros-Paldea-Aqua @ Assault Vest		Gouging Fire @ Booster Energy		Rayquaza-Mega @ Focus Sash		
+Level: 82		Level: 82		Level: 82		Level: 82		Level: 82		Level: 82		
+Hasty Nature		Modest Nature		Modest Nature		Jolly Nature		Adamant Nature		Naive Nature		
+Ability: Intimidate		Ability: Soul-Heart		Ability: Bad Company		Ability: Intimidate		Ability: Protosynthesis		Ability: Delta Stream		
+- Dragon Claw		- Dazzling Gleam		- Draco Meteor		- Wave Crash		- Flare Blitz		- Dragon Ascent		
+- Dual Wingbeat		- Flash Cannon		- Steel Beam		- Close Combat		- Dragon Claw		- Dragon Pulse		
+- Hydro Pump		- Aura Sphere		- Electro Shot		- Zen Headbutt		- Stomping Tantrum		- Earth Power		
+- Fire Blast		- Energy Ball		- Dark Pulse		- Rock Slide		- Dragon Dance		- Extreme Speed		
+EVs: 252 Atk / 6 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 252 Atk / 6 SpA / 252 Spe		
+												
+												
+ELITE FOUR SIDNEY	Team 1											
+Moltres-Galar @ Focus Sash		Grimmsnarl @ Leftovers		Munkidori @ Assault Vest		Delphox @ Life Orb		Roaring Moon @ Booster Energy		Absol-Mega @ Absolite		
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Hasty Nature		Jolly Nature		Timid Nature		Timid Nature		Adamant Nature		Jolly Nature		
+Ability: Berserk		Ability: Prankster		Ability: Toxic Chain		Ability: Magic Guard		Ability: Protosynthesis		Ability: Sharpness		
+- Tailwind		- Spirit Break		- Fake Out		- Mind Blown		- Dragon Dance		- Night Slash		
+- Fiery Wrath		- Darkest Lariat		- Sludge Wave		- Psychic		- Iron Head		- Close Combat		
+- Air Slash		- Hammer Arm		- Grass Knot		- Shadow Ball		- Dragon Claw		- Play Rough		
+- Sucker Punch		- Parting Shot		- Psychic		- Scorching Sands		- Knock Off		- Swords Dance		
+EVs: 6 Atk / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+ELITE FOUR SIDNEY	Team 2											
+Moltres-Galar @ Focus Sash		Absol @ Scope Lens		Munkidori @ Assault Vest		Victini @ Room Service		Guzzlord @ Life Orb		Grimmsnarl	-mega @ Grimmite	
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Quiet Nature		Brave Nature		Timid Nature		Brave Nature		Brave Nature		Quiet Nature		.baseHP =  115
+Ability: Berserk		Ability: Super Luck		Ability: Toxic Chain		Ability: Victory Star		Ability: Beast Boost		Ability: Prankster	Ability: Sheer Force	.baseAttack = 100
+IVs: 0 Spe		IVs: 0 Spe		- Fake Out		IVs: 0 Spe		IVs: 0 Spe		IVs: 0 Spe		.baseDefense = 95
+- Trick Room		- Night Slash		- Sludge Wave		- Trick Room		- Earthquake		- Dark Pulse		.baseSpAttack = 145
+- Fiery Wrath		- Psycho Cut		- Grass Knot		- Zen Headbutt		- Hammer Arm		- Moonblast		.baseSpDefense = 95
+- Air Slash		- Sucker Punch		- Psychic		- Bolt Strike		- Dragon Claw		- Aura Sphere		.baseSpeed = 60
+- Sucker Punch		- Close Combat		EVs: 6 HP / 252 SpA / 252 Spe		- V-create		- Knock Off		- Nasty Plot		
+EVs: 252 HP / 6 Atk / 252 SpA		EVs: 252 HP / 252 Atk / 6 Def				EVs: 252 HP / 252 Atk / 6 Def		EVs: 252 HP / 252 Atk / 6 SpD		EVs: 252 HP / 6 Atk / 252 SpA		
+												
+												
+ELITE FOUR PHOEBE	Team 1											
+Weezing @ Payapa Berry		Drifblim @ Sitrus Berry		Fezandipiti @ Assault Vest		Pecharunt @ Black Sludge		Lunala @ Leftovers		Dusknoir	-mega @ Dusknoirite	*gains dark type
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Calm Nature		Timid Nature		Timid Nature		Timid Nature		Bold Nature		Impish Nature		.baseHP =  105
+Ability: Levitate		Ability: Unburden		Ability: Toxic Chain		Ability: Poison Puppeteer		Ability: Shadow Shield		Ability: Pressure	Ability: Prankster	.baseAttack = 110
+- Toxic Spikes		- Shadow Ball		- Moonblast		- Malignant Chain		- Moongeist Beam		- Will-O-Wisp		.baseDefense = 150
+- Haze		- Air Slash		- Sludge Wave		- Hex		- Moonblast		- Amnesia		.baseSpAttack = 65
+- Sludge Wave		- Calm Mind		- Dark Pulse		- Parting Shot		- Psyshock		- Earthquake		.baseSpDefense = 150
+- Fire Blast		- Strength Sap		- Heat Wave		- Recover		- Moonlight		- Poltergeist		.baseSpeed = 45
+EVs: 252 HP / 6 SpA / 252 SpD		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 252 HP / 252 Def / 6 SpA		EVs: 252 HP / 6 Atk / 252 Def		
+												
+												
+ELITE FOUR PHOEBE	Team 2											
+Dragapult @ Expert Belt		Drapion @ Scope Lens		Annihilape @ Punching Glove		Pecharunt @ Wide Lens		Calyrex-Shadow @ Focus Sash		Gengar-Mega @ Gengarite		
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Jolly Nature		Jolly Nature		Jolly Nature		Jolly Nature		Timid Nature		Timid Nature		
+Ability: Clear Body		Ability: Sniper		Ability: Defiant		Ability: Poison Puppeteer		Ability: As One (Spectrier)		Ability: Shadow Tag		
+- Dragon Darts		- Wicked Blow		- Drain Punch		- Gunk Shot		- Nasty Plot		- Shadow Ball		
+- U-turn		- Cross Poison		- Rage Fist		- Poltergeist		- Astral Barrage		- Sludge Wave		
+- Shadow Claw		- Earthquake		- Rock Slide		- Foul Play		- Psyshock		- Focus Blast		
+- Steel Wing		- Ice Fang		- Bulk Up		- Parting Shot		- Draining Kiss		- Nasty Plot		
+EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		
+												
+												
+ELITE FOUR GLACIA	Team 1											
+Ninetales @ Heat Rock		Decidueye-Hisui @ Expert Belt		Darmanitan-Galar-Zen @ Life Orb		Volcanion @ Heavy-Duty Boots		Reshiram @ Weakness Policy		Charizard-Mega-Y @ Charizardite Y		
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Timid Nature		Jolly Nature		Jolly Nature		Timid Nature		Timid Nature		Timid Nature		
+Ability: Drought		Ability: Quill Rush		Ability: Zen Mode		Ability: Water Absorb		Ability: Turboblaze		Ability: Drought		
+- Flamethrower		- Close Combat		- Flare Blitz		- Hydro Steam		- Fusion Flare		- Flamethrower		
+- Energy Ball		- Leaf Blade		- Icicle Crash		- Flamethrower		- Dragon Pulse		- Air Slash		
+- Psyshock		- Sucker Punch		- Zen Headbutt		- Sludge Wave		- Aura Sphere		- Solar Beam		
+- Scorching Sands		- Stone Edge		- Earthquake		- Defog		- Flame Charge		- Dragon Pulse		
+EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		
+												
+												
+ELITE FOUR GLACIA	Team 2											
+Ninetales-Alola @ Icy Rock		Electivire @ Expert Belt		Darmanitan-Galar-Zen @ Life Orb		Volcanion @ Heavy-Duty Boots		Kyurem-Black @ Loaded Dice		Abomasnow-Mega @ Abomasite		
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Timid Nature		Jolly Nature		Jolly Nature		Timid Nature		Jolly Nature		Jolly Nature		
+Ability: Snow Warning		Ability: Iron Fist		Ability: Zen Mode		Ability: Water Absorb		Ability: Teravolt		Ability: Slush Rush		
+- Extrasensory		- Plasma Fists		- Flare Blitz		- Steam Eruption		- Fusion Bolt		- Ice Hammer		
+- Ice Beam		- Close Combat		- Icicle Crash		- Flamethrower		- Scale Shot		- Ice Shard		
+- Moonblast		- Mach Punch		- Zen Headbutt		- Sludge Wave		- Icicle Spear		- Wood Hammer		
+- Energy Ball		- Earthquake		- Earthquake		- Defog		- Dragon Dance		- Earthquake		
+EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+												
+												
+												
+ELITE FOUR CYNTHIA												
+Spiritomb @ Assault Vest		Heatran @ Air Balloon		Cramorant @ Focus Sash		Zamazenta-Crowned @ Rusted Shield		Xerneas @ Power Herb		Garchomp-Mega @ Garchompite		
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Sassy Nature		Timid Nature		Timid Nature		Jolly Nature		Timid Nature		Jolly Nature		
+Ability: Intimidate		Ability: Flash Fire		Ability: Gulp Missile		Ability: Dauntless Shield		Ability: Fairy Aura		Ability: Sand Force		
+- Dark Hole		- Flamethrower		- Surf		- Body Press		IVs: 30 Atk / 30 SpA / 30 Spe		- Scale Shot		
+- Sucker Punch		- Flash Cannon		- Ice Beam		- Iron Defense		- Moonblast		- Earthquake		
+- Dream Eater		- Power Gem		- Air Slash		- Behemoth Bash		- Psyshock		- Stone Edge		
+- Poltergeist		- Will-O-Wisp		- Roost		- Play Rough		- Hidden Power Fire		- Swords Dance		
+EVs: 252 HP / 6 SpA / 252 SpD		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		- Geomancy		EVs: 6 HP / 252 Atk / 252 Spe		
+								EVs: 6 HP / 252 SpA / 252 Spe				
+												
+												
+CHAMPION WALLACE		DOUBLE BATTLE				CHAMPION STEVEN						
+Empoleon	-mega @ Empoleonite O	Palkia-Primal @ Lustrous Orb		Suicune @ Leftovers		Empoleon 	-mega @ Empoleonite D	Dialga-Primal @ Adamant Orb		Metagross @ Assault Vest		
+Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		Level: 85		
+Jolly Nature		Timid Nature		Timid Nature		Relaxed Nature		Timid Nature		Jolly Nature		
+Ability: Torrent	Ability: Emperor's Presence	Ability: Primal Armor		Ability: Inner Focus		Ability: Torrent	Ability: Lightning Rod	Ability: Primal Armor		Ability: Tough Claws		
+- Iron Head	.baseHP = 100	- Spacial Rend	.baseHP = 90	- Scald		- Flip Turn	.baseHP = 140	- Roar of Time		- Meteor Mash		
+- Liquidation	.baseAttack = 150	- Earth Power	.baseAttack = 120	- Ice Beam		- Flash Cannon	.baseAttack = 75	- Flash Cannon		- Zen Headbutt		
+- Drill Peck	.baseDefense = 75	- Aura Sphere	.baseDefense = 130	- Calm Mind		- Toxic	.baseDefense = 145	- Fire Blast		- Ice Punch		
+- Protect	.baseSpAttack = 110	- Hydro Pump	.baseSpAttack = 185	- Air Slash		- Roost	.baseSpAttack = 75	- Ice Beam		- Bullet Punch		
+EVs: 6 HP / 252 Atk / 252 Spe	.baseSpDefense = 75	EVs: 6 HP / 252 SpA / 252 Spe	.baseSpDefense = 150	EVs: 6 HP / 252 SpA / 252 Spe		EVs: 252 HP / 252 Def / 6 SpA	.baseSpDefense = 145	EVs: 6 HP / 252 SpA / 252 Spe		EVs: 6 HP / 252 Atk / 252 Spe		
+	.baseSpeed = 120		.baseSpeed = 100				.baseSpeed = 50					
+

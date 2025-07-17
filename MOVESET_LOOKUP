@@ -1,0 +1,8 @@
+# MOVESET LOOKUP
+
+To get a Pokémon's legal moves:
+1. Locate species in `speciesData.js`
+2. Filter by:
+   - Level ≤ current level cap
+   - TM moves unlocked at current badge count
+3. Exclude any TM or tutor moves not legally unlocked

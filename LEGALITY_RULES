@@ -1,0 +1,18 @@
+# LEGALITY RULES
+
+This document defines move, item, and team legality based on in-game progression.
+
+## Gating Rules
+
+- Badge Count:
+  - TMs and opponents are gated by the number of badges obtained.
+  - Refer to `tm-locations.txt` to determine which TMs are unlocked per badge.
+
+- Level Cap:
+  - A Pokémon can only use moves learned by or below the current level cap.
+
+## Move Legality Source Hierarchy
+
+1. `speciesData.js` – Level-up, egg, tutor moves
+2. `tm-locations.txt` – TM availability (requires badge)
+3. `moves.js` – Move definitions (e.g. PP, power, type)

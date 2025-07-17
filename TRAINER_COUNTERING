@@ -1,0 +1,17 @@
+# TRAINER COUNTERING
+
+This document defines how counterteams should be legally built against any given in-game trainer.
+
+## Counterteam Generation
+
+1. Load the trainer's full roster from `trainer-battles.txt`.
+2. Evaluate weaknesses:
+   - Identify primary type vulnerabilities, lack of coverage, and shared weaknesses.
+3. Build a legal team of up to 6 Pokémon:
+   - All Pokémon must be legal under the current badge and level cap rules.
+   - Moves must follow legality rules outlined in `LEGALITY_RULES.md`.
+
+## Optional Constraints
+
+- Monotype: Restrict all selected Pokémon to a single shared type.
+- TM Limit: Respect badge-based gating on TMs.

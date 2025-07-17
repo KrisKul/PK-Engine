@@ -1,0 +1,13 @@
+{
+  "name": "pk-engine",
+  "version": "1.0.0",
+  "description": "A GPT-powered engine for Pokémon legality, movesets, and trainer countering.",
+  "main": "engine.js",
+  "type": "module",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": ["pokemon", "gpt", "legality", "trainer", "cli"],
+  "author": "KrisKul",
+  "license": "MIT"
+}

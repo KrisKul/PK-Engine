@@ -1,0 +1,4371 @@
+[
+    {
+        "Trainer": "Roxanne",
+        "Team": [
+            {
+                "Name": "Rhyhorn",
+                "Item": "Rindo Berry",
+                "Level": 14,
+                "Nature": "Adamant",
+                "Ability": "Lightning Rod",
+                "Moves": [
+                    "Rock Tomb",
+                    "Horn Attack",
+                    "Bulldoze",
+                    "Rock Smash"
+                ]
+            },
+            {
+                "Name": "Wooper-Paldea",
+                "Item": "Oran Berry",
+                "Level": 15,
+                "Nature": "Modest",
+                "Ability": "Water Absorb",
+                "Moves": [
+                    "Mud Shot",
+                    "Acid Spray",
+                    "Yawn",
+                    "Sandstorm"
+                ]
+            },
+            {
+                "Name": "Gligar",
+                "Item": "Oran Berry",
+                "Level": 15,
+                "Nature": "Adamant",
+                "Ability": "Sand Veil",
+                "Moves": [
+                    "Wing Attack",
+                    "Quick Attack",
+                    "Bulldoze"
+                ]
+            },
+            {
+                "Name": "Nosepass",
+                "Item": "Berry Juice",
+                "Level": 15,
+                "Nature": "Impish",
+                "Ability": "Sturdy",
+                "Moves": [
+                    "Rock Blast",
+                    "Spark",
+                    "Thunder Wave",
+                    "Bulldoze"
+                ]
+            }
+        ]
+    },
+    {
+        "Trainer": "Brawly",
+        "Team": [
+            {
+                "Name": "Pikachu-Libre",
+                "Item": "Light Ball",
+                "Level": 23,
+                "Nature": "Timid",
+                "Ability": "Lightning Rod",
+                "IVs": "30 Def / 30 SpA / 30 SpD / 30 Spe",
+                "Moves": [
+                    "Fake Out",
+                    "Electroweb",
+                    "Hidden Power Fighting",
+                    "Draining Kiss"
+                ]
+            },
+            {
+                "Name": "Sandslash-Alola",
+                "Item": "Chople Berry",
+                "Level": 24,
+                "Nature": "Jolly",
+                "Ability": "Ice Scales",
+                "Moves": [
+                    "Ice Shard",
+                    "Aerial Ace",
+                    "Bulldoze",
+                    "Cut"
+                ]
+            },
+            {
+                "Name": "Lycanroc-Dusk",
+                "Item": "Muscle Band",
+                "Level": 25,
+                "Nature": "Jolly",
+                "Ability": "Tough Claws",
+                "Moves": [
+                    "Low Sweep",
+                    "Accelerock",
+                    "Bulldoze",
+                    "Rock Tomb"
+                ]
+            },
+            {
+                "Name": "Gurdurr",
+                "Item": "Eviolite",
+                "Level": 25,
+                "Nature": "Adamant",
+                "Ability": "Iron Fist",
+                "Moves": [
+                    "Mach Punch",
+                    "Fire Punch",
+                    "Low Sweep",
+                    "Thunder Punch"
+                ]
+            },
+            {
+                "Name": "Hariyama",
+                "Item": "Sitrus Berry",
+                "Level": 25,
+                "Nature": "Adamant",
+                "Ability": "Thick Fat",
+                "Moves": [
+                    "Fake Out",
+                    "Low Sweep",
+                    "Bullet Punch",
+                    "Bulk Up"
+                ]
+            }
+        ]
+    },
+    {
+        "Trainer": "Wattson",
+        "Team": [
+            {
+                "Name": "Dedenne",
+                "Item": "Terrain Extender",
+                "Level": 34,
+                "Nature": "Timid",
+                "Ability": "Electric Surge",
+                "IVs": "30 Spe",
+                "Moves": [
+                    "Parabolic Charge",
+                    "Volt Switch",
+                    "Draining Kiss",
+                    "Hidden Power Ice"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Kilowattrel",
+                "Item": "Charti Berry",
+                "Level": 34,
+                "Nature": "Timid",
+                "Ability": "Volt Absorb",
+                "Moves": [
+                    "Air Slash",
+                    "Electroweb",
+                    "Volt Switch",
+                    "Roost"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Magneton",
+                "Item": "Eviolite",
+                "Level": 34,
+                "Nature": "Modest",
+                "Ability": "Analytic",
+                "Moves": [
+                    "Shock Wave",
+                    "Mirror Shot",
+                    "Volt Switch",
+                    "Tri Attack"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Vikavolt",
+                "Item": "Occa Berry",
+                "Level": 34,
+                "Nature": "Modest",
+                "Ability": "Levitate",
+                "Moves": [
+                    "Bug Buzz",
+                    "Air Slash",
+                    "Energy Ball",
+                    "Charge Beam"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Luxray",
+                "Form": "Mega",
+                "Item": "Luxite",
+                "Level": 34,
+                "Nature": "Jolly",
+                "Ability": "Strong Jaw",
+                "BaseStats": {
+                    "HP": 95,
+                    "Attack": 130,
+                    "Defense": 79,
+                    "SpAttack": 110,
+                    "SpDefense": 79,
+                    "Speed": 130
+                },
+                "Moves": [
+                    "Thunder Fang",
+                    "Bite",
+                    "Psychic Fangs",
+                    "Ice Fang"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "Flannery",
+        "Team": [
+            {
+                "Name": "Ninetales",
+                "Item": "Heat Rock",
+                "Level": 47,
+                "Nature": "Timid",
+                "Ability": "Drought",
+                "Moves": [
+                    "Flamethrower",
+                    "Energy Ball",
+                    "Roar",
+                    "Scorching Sands"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Walking Wake",
+                "Item": "Choice Scarf",
+                "Level": 47,
+                "Nature": "Timid",
+                "Ability": "Protosynthesis",
+                "AbilityBoost": "SpAtk",
+                "Moves": [
+                    "Hydro Steam",
+                    "Flamethrower",
+                    "Dragon Pulse",
+                    "Hidden Power Poison"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Scovillain",
+                "Item": "Life Orb",
+                "Level": 47,
+                "Nature": "Modest",
+                "Ability": "Chlorophyll",
+                "Moves": [
+                    "Giga Drain",
+                    "Flamethrower",
+                    "Scorching Sands",
+                    "Sunny Day"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Rotom-Heat",
+                "Item": "Leftovers",
+                "Level": 47,
+                "Nature": "Bold",
+                "Ability": "Levitate",
+                "Moves": [
+                    "Thunderbolt",
+                    "Will-O-Wisp",
+                    "Overheat",
+                    "Pain Split"
+                ],
+                "EVs": "252 Def / 252 SpA / 6 SpD"
+            },
+            {
+                "Name": "Torkoal",
+                "Item": "White Herb",
+                "Level": 47,
+                "Nature": "Quiet",
+                "Ability": "Drought",
+                "Moves": [
+                    "Overheat",
+                    "Earth Power",
+                    "Solar Beam",
+                    "Explosion"
+                ],
+                "EVs": "252 HP / 6 Atk / 252 SpA"
+            },
+            {
+                "Name": "Infernape",
+                "Form": "Mega",
+                "Item": "Infernapite",
+                "Level": 47,
+                "Nature": "Adamant",
+                "Ability": "Adaptability",
+                "BaseStats": {
+                    "HP": 76,
+                    "Attack": 137,
+                    "Defense": 71,
+                    "SpAttack": 137,
+                    "SpDefense": 71,
+                    "Speed": 142
+                },
+                "Moves": [
+                    "Flare Blitz",
+                    "Close Combat",
+                    "Mach Punch",
+                    "Thunder Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "Norman",
+        "Team": [
+            {
+                "Name": "Zoroark-Hisui",
+                "Item": "Focus Sash",
+                "Level": 59,
+                "Nature": "Timid",
+                "Ability": "Illusion",
+                "Moves": [
+                    "Bitter Malice",
+                    "Aura Sphere",
+                    "Hyper Voice",
+                    "Sludge Bomb"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Iron Valiant",
+                "Item": "Booster Energy",
+                "Level": 59,
+                "Nature": "Jolly",
+                "Ability": "Quark Drive",
+                "Moves": [
+                    "Close Combat",
+                    "Spirit Break",
+                    "Bulk Up",
+                    "Knock Off"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Ursaluna-Bloodmoon",
+                "Item": "Expert Belt",
+                "Level": 59,
+                "Nature": "Modest",
+                "Ability": "Mind's Eye",
+                "IVs": "30 Atk / 30 Def",
+                "Moves": [
+                    "Earth Power",
+                    "Blood Moon",
+                    "Hyper Voice",
+                    "Hidden Power Ice"
+                ]
+            },
+            {
+                "Name": "Cyclizar",
+                "Item": "Sitrus Berry",
+                "Level": 59,
+                "Nature": "Jolly",
+                "Ability": "Regenerator",
+                "Moves": [
+                    "Shed Tail",
+                    "Aqua Tail",
+                    "Dragon Claw",
+                    "Return"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Slaking",
+                "Form": "Mega",
+                "Item": "Slakite",
+                "Level": 59,
+                "Nature": "Jolly",
+                "Ability": "Comatose",
+                "BaseStats": {
+                    "HP": 150,
+                    "Attack": 160,
+                    "Defense": 110,
+                    "SpAttack": 60,
+                    "SpDefense": 110,
+                    "Speed": 110
+                },
+                "Moves": [
+                    "Return",
+                    "Play Rough",
+                    "Power-Up Punch",
+                    "Earthquake"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Obstagoon",
+                "Item": "Flame Orb",
+                "Level": 59,
+                "Nature": "Jolly",
+                "Ability": "Guts",
+                "Moves": [
+                    "Facade",
+                    "Knock Off",
+                    "Brick Break",
+                    "Obstruct"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "Winona",
+        "Team": [
+            {
+                "Name": "Staraptor",
+                "Item": "Choice Band",
+                "Level": 68,
+                "Nature": "Jolly",
+                "Ability": "Intimidate",
+                "Moves": [
+                    "U-turn",
+                    "Double-Edge",
+                    "Brave Bird",
+                    "Close Combat"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Aggron",
+                "Item": "Assault Vest",
+                "Level": 68,
+                "Nature": "Adamant",
+                "Ability": "Rock Head",
+                "Moves": [
+                    "Head Smash",
+                    "Heavy Slam",
+                    "Fire Punch",
+                    "Body Press"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Def"
+            },
+            {
+                "Name": "Flygon",
+                "Item": "Life Orb",
+                "Level": 68,
+                "Nature": "Naive",
+                "Ability": "Tinted Lens",
+                "Moves": [
+                    "Headlong Rush",
+                    "Draco Meteor",
+                    "Dual Wingbeat",
+                    "Rock Slide"
+                ],
+                "EVs": "252 Atk / 6 SpA / 252 Spe"
+            },
+            {
+                "Name": "Frosmoth",
+                "Item": "Heavy-Duty Boots",
+                "Level": 68,
+                "Nature": "Timid",
+                "Ability": "Ice Scales",
+                "Moves": [
+                    "Ice Beam",
+                    "Giga Drain",
+                    "Bug Buzz",
+                    "Quiver Dance"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Thundurus-Therian",
+                "Item": "Focus Sash",
+                "Level": 68,
+                "Nature": "Timid",
+                "Ability": "Volt Absorb",
+                "IVs": "30 SpA / 30 SpD / 30 Spe",
+                "Moves": [
+                    "Thunderbolt",
+                    "Grass Knot",
+                    "Sludge Wave",
+                    "Hidden Power Flying"
+                ]
+            },
+            {
+                "Name": "Altaria",
+                "Form": "Mega",
+                "Item": "Altarianite",
+                "Level": 68,
+                "Nature": "Jolly",
+                "Ability": "Pixilate",
+                "Moves": [
+                    "Earthquake",
+                    "Dragon Claw",
+                    "Return",
+                    "Dragon Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "Tate & Liza",
+        "BattleType": "Double Battle",
+        "Team": [
+            {
+                "Name": "Tapu Lele",
+                "Item": "Terrain Extender",
+                "Level": 76,
+                "Nature": "Timid",
+                "Ability": "Psychic Surge",
+                "Moves": [
+                    "Moonblast",
+                    "Psychic",
+                    "Thunderbolt",
+                    "Calm Mind"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Espathra",
+                "Item": "Focus Sash",
+                "Level": 76,
+                "Nature": "Timid",
+                "Ability": "Speed Boost",
+                "IVs": "30 Def / 30 SpA / 30 SpD / 30 Spe",
+                "Moves": [
+                    "Lumina Crash",
+                    "Air Slash",
+                    "Flash Cannon",
+                    "Hidden Power Fighting"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Kangaskhan",
+                "Form": "Mega",
+                "Item": "Kangaskhanite",
+                "Level": 76,
+                "Nature": "Jolly",
+                "Ability": "Parental Bond",
+                "Moves": [
+                    "Power-Up Punch",
+                    "Body Slam",
+                    "Crunch",
+                    "Brick Break"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Iron Leaves",
+                "Item": "Choice Scarf",
+                "Level": 76,
+                "Nature": "Jolly",
+                "Ability": "Sharpness",
+                "Moves": [
+                    "Leaf Blade",
+                    "Psyblade",
+                    "Sacred Sword",
+                    "Night Slash"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Farigiraf",
+                "Item": "Assault Vest",
+                "Level": 76,
+                "Nature": "Modest",
+                "Ability": "Parental Bond",
+                "Moves": [
+                    "Expanding Force",
+                    "Hyper Voice",
+                    "Dazzling Gleam",
+                    "Psychic"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Alakazam",
+                "Form": "Mega",
+                "Item": "Alakazite",
+                "Level": 76,
+                "Nature": "Timid",
+                "Ability": "Trace",
+                "Moves": [
+                    "Expanding Force",
+                    "Psyshock",
+                    "Focus Blast",
+                    "Shadow Ball"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "Juan",
+        "Team": [
+            {
+                "Name": "Tapu Fini",
+                "Item": "Terrain Extender",
+                "Level": 82,
+                "Nature": "Timid",
+                "Ability": "Misty Surge",
+                "Moves": [
+                    "Moonblast",
+                    "Ice Beam",
+                    "Surf",
+                    "Flip Turn"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Tinkaton",
+                "Item": "Shuca Berry",
+                "Level": 82,
+                "Nature": "Jolly",
+                "Ability": "Own Tempo",
+                "Moves": [
+                    "Gigaton Hammer",
+                    "Play Rough",
+                    "Stone Edge",
+                    "Brick Break"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Rapidash",
+                "Form": "Galar",
+                "Item": "Life Orb",
+                "Level": 82,
+                "Nature": "Jolly",
+                "Ability": "Flash Fire",
+                "Moves": [
+                    "Flare Blitz",
+                    "Play Rough",
+                    "Wild Charge",
+                    "Swords Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Ursaluna",
+                "Item": "Assault Vest",
+                "Level": 82,
+                "Nature": "Adamant",
+                "Ability": "Bulletproof",
+                "Moves": [
+                    "Return",
+                    "Close Combat",
+                    "Headlong Rush",
+                    "Play Rough"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Flutter Mane",
+                "Item": "Choice Specs",
+                "Level": 82,
+                "Nature": "Timid",
+                "Ability": "Protosynthesis",
+                "Moves": [
+                    "Energy Ball",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Psyshock"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Diancie",
+                "Form": "Mega",
+                "Item": "Diancite",
+                "Level": 82,
+                "Nature": "Timid",
+                "Ability": "Magic Bounce",
+                "Moves": [
+                    "Moonblast",
+                    "Diamond Storm",
+                    "Earth Power",
+                    "Calm Mind"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Battles": [
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Treecko",
+                "Location": "Route 103",
+                "Team": [
+                    {
+                        "Name": "Treecko",
+                        "Level": 5
+                    }
+                ]
+            },
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Torchic",
+                "Location": "Route 103",
+                "Team": [
+                    {
+                        "Name": "Torchic",
+                        "Level": 5
+                    }
+                ]
+            },
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Mudkip",
+                "Location": "Route 103",
+                "Team": [
+                    {
+                        "Name": "Mudkip",
+                        "Level": 5
+                    }
+                ]
+            },
+            {
+                "Trainer": "Dawn",
+                "Location": "Route 104",
+                "Team": [
+                    {
+                        "Name": "Buneary",
+                        "Item": "Oran Berry",
+                        "Level": "Player's Highest Lv -3",
+                        "Nature": "Adamant",
+                        "Ability": "Limber",
+                        "Moves": [
+                            "Fake Out",
+                            "Quick Attack",
+                            "Mach Punch"
+                        ]
+                    },
+                    {
+                        "Name": "Noibat",
+                        "Item": "Oran Berry",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Infiltrator",
+                        "Moves": [
+                            "Gust",
+                            "Absorb",
+                            "Twister",
+                            "Peck"
+                        ]
+                    },
+                    {
+                        "Name": "Piplup",
+                        "Item": "Oran Berry",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Serious",
+                        "Ability": "Torrent",
+                        "Moves": [
+                            "Bubble Beam",
+                            "Aqua Jet",
+                            "Baby-Doll Eyes"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Battles": [
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Treecko",
+                "Location": "Rustboro City",
+                "Team": [
+                    {
+                        "Name": "Golbat",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Wing Attack",
+                            "Cross Poison",
+                            "Bite",
+                            "U-turn"
+                        ]
+                    },
+                    {
+                        "Name": "Hattrem",
+                        "Item": "Wise Glasses",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Modest",
+                        "Ability": "Magic Bounce",
+                        "Moves": [
+                            "Draining Kiss",
+                            "Psybeam",
+                            "Thunder Wave",
+                            "Life Dew"
+                        ]
+                    },
+                    {
+                        "Name": "Kubfu",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Inner Focus",
+                        "Moves": [
+                            "Rock Smash",
+                            "Aerial Ace",
+                            "Headbutt",
+                            "Rock Tomb"
+                        ]
+                    },
+                    {
+                        "Name": "Grovyle",
+                        "Item": "Sitrus Berry",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Adamant",
+                        "Ability": "Overgrow",
+                        "Moves": [
+                            "Bullet Seed",
+                            "Rock Tomb",
+                            "Fury Cutter",
+                            "Assurance"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Torchic",
+                "Location": "Rustboro City",
+                "Team": [
+                    {
+                        "Name": "Golbat",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Wing Attack",
+                            "Cross Poison",
+                            "Bite",
+                            "U-turn"
+                        ]
+                    },
+                    {
+                        "Name": "Hattrem",
+                        "Item": "Wise Glasses",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Modest",
+                        "Ability": "Magic Bounce",
+                        "Moves": [
+                            "Draining Kiss",
+                            "Psybeam",
+                            "Thunder Wave",
+                            "Life Dew"
+                        ]
+                    },
+                    {
+                        "Name": "Kubfu",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Inner Focus",
+                        "Moves": [
+                            "Rock Smash",
+                            "Aerial Ace",
+                            "Headbutt",
+                            "Thunder Punch"
+                        ]
+                    },
+                    {
+                        "Name": "Combusken",
+                        "Item": "Sitrus Berry",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Adamant",
+                        "Ability": "Striker",
+                        "Moves": [
+                            "Double Kick",
+                            "Rock Tomb",
+                            "Flame Charge",
+                            "Thunder Punch"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Mudkip",
+                "Location": "Rustboro City",
+                "Team": [
+                    {
+                        "Name": "Golbat",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Wing Attack",
+                            "Cross Poison",
+                            "Bite",
+                            "U-turn"
+                        ]
+                    },
+                    {
+                        "Name": "Hattrem",
+                        "Item": "Wise Glasses",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Modest",
+                        "Ability": "Magic Bounce",
+                        "Moves": [
+                            "Draining Kiss",
+                            "Psybeam",
+                            "Thunder Wave",
+                            "Life Dew"
+                        ]
+                    },
+                    {
+                        "Name": "Kubfu",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Inner Focus",
+                        "Moves": [
+                            "Rock Smash",
+                            "Aerial Ace",
+                            "Headbutt",
+                            "Fire Punch"
+                        ]
+                    },
+                    {
+                        "Name": "Marshtomp",
+                        "Item": "Sitrus Berry",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Quiet",
+                        "Ability": "Torrent",
+                        "Moves": [
+                            "Water Pulse",
+                            "Rock Tomb",
+                            "Mud Shot",
+                            "Ice Punch"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Battles": [
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Treecko",
+                "Location": "Route 110",
+                "Team": [
+                    {
+                        "Name": "Crobat",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Dual Wingbeat",
+                            "Cross Poison",
+                            "Bite",
+                            "U-turn"
+                        ]
+                    },
+                    {
+                        "Name": "Dragonair",
+                        "Item": "Eviolite",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Impish",
+                        "Ability": "Shed Skin",
+                        "Moves": [
+                            "Dragon Tail",
+                            "Dragon Rage",
+                            "Body Slam",
+                            "Thunder Wave"
+                        ]
+                    },
+                    {
+                        "Name": "Gorebyss",
+                        "Item": "Sitrus Berry",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Modest",
+                        "Ability": "Dazzling",
+                        "Moves": [
+                            "Aurora Beam",
+                            "Water Pulse",
+                            "Draining Kiss",
+                            "Psychic"
+                        ]
+                    },
+                    {
+                        "Name": "Kubfu",
+                        "Item": "Punching Glove",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Inner Focus",
+                        "Moves": [
+                            "Drain Punch",
+                            "Fire Punch",
+                            "Thunder Punch",
+                            "Ice Punch"
+                        ]
+                    },
+                    {
+                        "Name": "Grovyle",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv",
+                        "Nature": "Jolly",
+                        "Ability": "Overgrow",
+                        "Moves": [
+                            "Leaf Blade",
+                            "Rock Slide",
+                            "Power-Up Punch",
+                            "Low Sweep"
+                        ],
+                        "EVs": "80 Spe"
+                    }
+                ]
+            },
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Torchic",
+                "Location": "Route 110",
+                "Team": [
+                    {
+                        "Name": "Crobat",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Dual Wingbeat",
+                            "Cross Poison",
+                            "Bite",
+                            "U-turn"
+                        ]
+                    },
+                    {
+                        "Name": "Metang",
+                        "Item": "Eviolite",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Impish",
+                        "Ability": "Tough Claws",
+                        "Moves": [
+                            "Metal Claw",
+                            "Bullet Punch",
+                            "Zen Headbutt",
+                            "Bulldoze"
+                        ]
+                    },
+                    {
+                        "Name": "Whimsicott",
+                        "Item": "Sitrus Berry",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Timid",
+                        "Ability": "Prankster",
+                        "Moves": [
+                            "Giga Drain",
+                            "Stun Spore",
+                            "Leech Seed",
+                            "Dazzling Gleam"
+                        ]
+                    },
+                    {
+                        "Name": "Kubfu",
+                        "Item": "Punching Glove",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Inner Focus",
+                        "Moves": [
+                            "Drain Punch",
+                            "Fire Punch",
+                            "Thunder Punch",
+                            "Ice Punch"
+                        ]
+                    },
+                    {
+                        "Name": "Combusken",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv",
+                        "Nature": "Modest",
+                        "Ability": "Blaze",
+                        "Moves": [
+                            "Flame Burst",
+                            "Scorching Sands",
+                            "Quick Attack",
+                            "Counter"
+                        ],
+                        "EVs": "80 Spe"
+                    }
+                ]
+            },
+            {
+                "Trainer": "May/Brendan",
+                "Starter": "Mudkip",
+                "Location": "Route 110",
+                "Team": [
+                    {
+                        "Name": "Crobat",
+                        "Item": "Muscle Band",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Dual Wingbeat",
+                            "Cross Poison",
+                            "Bite",
+                            "U-turn"
+                        ]
+                    },
+                    {
+                        "Name": "Sliggoo-Hisui",
+                        "Item": "Eviolite",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Calm",
+                        "Ability": "Sap Sipper",
+                        "Moves": [
+                            "Dragon Breath",
+                            "Flash Cannon",
+                            "Water Pulse",
+                            "Life Dew"
+                        ]
+                    },
+                    {
+                        "Name": "Rapidash-Galar",
+                        "Item": "Sitrus Berry",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Jolly",
+                        "Ability": "Immunity",
+                        "Moves": [
+                            "Flame Wheel",
+                            "Will-O-Wisp",
+                            "Covet",
+                            "Quick Attack"
+                        ]
+                    },
+                    {
+                        "Name": "Kubfu",
+                        "Item": "Punching Glove",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Inner Focus",
+                        "Moves": [
+                            "Drain Punch",
+                            "Fire Punch",
+                            "Thunder Punch",
+                            "Ice Punch"
+                        ]
+                    },
+                    {
+                        "Name": "Marshtomp",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv",
+                        "Nature": "Brave",
+                        "Ability": "Torrent",
+                        "Moves": [
+                            "Bulldoze",
+                            "Rock Slide",
+                            "Liquidation",
+                            "Flip Turn"
+                        ],
+                        "EVs": "80 Atk"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Trainer": "Wally",
+        "Location": "Mauville City",
+        "Team": [
+            {
+                "Name": "Drednaw",
+                "Item": "Sitrus Berry",
+                "Level": 30,
+                "Nature": "Adamant",
+                "Ability": "Strong Jaw",
+                "Moves": [
+                    "Crunch",
+                    "Razor Shell",
+                    "Rock Tomb",
+                    "Brick Break"
+                ]
+            },
+            {
+                "Name": "Kricketune",
+                "Item": "Sitrus Berry",
+                "Level": 30,
+                "Nature": "Jolly",
+                "Ability": "Technician",
+                "Moves": [
+                    "Bug Bite",
+                    "Bulldoze",
+                    "Aerial Ace",
+                    "Rock Smash"
+                ]
+            },
+            {
+                "Name": "Skarmory",
+                "Item": "Sitrus Berry",
+                "Level": 31,
+                "Nature": "Impish",
+                "Ability": "Sturdy",
+                "Moves": [
+                    "Steel Wing",
+                    "Drill Peck",
+                    "Roost",
+                    "Toxic"
+                ]
+            },
+            {
+                "Name": "Gardevoir",
+                "Item": "Wise Glasses",
+                "Level": 32,
+                "Nature": "Timid",
+                "Ability": "Trace",
+                "Moves": [
+                    "Draining Kiss",
+                    "Psychic Noise",
+                    "Magical Leaf",
+                    "Shadow Ball"
+                ],
+                "EVs": "80 SpA"
+            }
+        ]
+    },
+    {
+        "Trainer": "Dawn",
+        "Location": "Route 111",
+        "Team": [
+            {
+                "Name": "Lopunny",
+                "Item": "Silk Scarf",
+                "Level": "Player's Highest Lv -2",
+                "Nature": "Jolly",
+                "Ability": "Limber",
+                "Moves": [
+                    "Fake Out",
+                    "Return",
+                    "Thunder Punch",
+                    "Drain Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Noivern",
+                "Item": "Expert Belt",
+                "Level": "Player's Highest Lv -2",
+                "Nature": "Timid",
+                "Ability": "Infiltrator",
+                "Moves": [
+                    "Aeroblast",
+                    "Dragon Pulse",
+                    "Boomburst",
+                    "Dark Pulse"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Tsareena",
+                "Item": "Miracle Seed",
+                "Level": "Player's Highest Lv -2",
+                "Nature": "Jolly",
+                "Ability": "Striker",
+                "Moves": [
+                    "Trop Kick",
+                    "Triple Axel",
+                    "High Jump Kick",
+                    "Play Rough"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Chandelure",
+                "Item": "Charcoal",
+                "Level": "Player's Highest Lv -2",
+                "Nature": "Timid",
+                "Ability": "Flash Fire",
+                "Moves": [
+                    "Flamethrower",
+                    "Shadow Ball",
+                    "Psychic",
+                    "Will-O-Wisp"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Empoleon",
+                "Form": "Mega",
+                "Item": "Empoleonite D",
+                "Level": "Player's Highest Lv -1",
+                "Nature": "Bold",
+                "Ability": "Lightning Rod",
+                "BaseStats": {
+                    "HP": 140,
+                    "Attack": 75,
+                    "Defense": 145,
+                    "SpAttack": 75,
+                    "SpDefense": 145,
+                    "Speed": 50
+                },
+                "Moves": [
+                    "Surf",
+                    "Flash Cannon",
+                    "Toxic",
+                    "Roost"
+                ],
+                "EVs": "252 HP / 252 Def / 6 SpA"
+            }
+        ]
+    },
+    {
+        "Trainer": "Wally",
+        "Location": "Route 110 (after Flannery)",
+        "Team": [
+            {
+                "Name": "Sneasler",
+                "Item": "Focus Sash",
+                "Level": "Player's Highest Lv -1",
+                "Nature": "Jolly",
+                "Ability": "Unburden",
+                "Moves": [
+                    "Taunt",
+                    "Dire Claw",
+                    "Close Combat",
+                    "Knock Off"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Galvantula",
+                "Item": "Expert Belt",
+                "Level": "Player's Highest Lv -1",
+                "Nature": "Timid",
+                "Ability": "Compound Eyes",
+                "Moves": [
+                    "Bug Buzz",
+                    "Thunder",
+                    "Giga Drain",
+                    "Volt Switch"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Corviknight",
+                "Item": "Rocky Helmet",
+                "Level": "Player's Highest Lv -1",
+                "Nature": "Impish",
+                "Ability": "Unnerve",
+                "Moves": [
+                    "Body Press",
+                    "Drill Peck",
+                    "Iron Head",
+                    "Roost"
+                ],
+                "EVs": "252 HP / 6 Atk / 252 Def"
+            },
+            {
+                "Name": "Darmanitan",
+                "Item": "Life Orb",
+                "Level": "Player's Highest Lv -1",
+                "Nature": "Jolly",
+                "Ability": "Sheer Force",
+                "Moves": [
+                    "Flare Blitz",
+                    "Rock Slide",
+                    "Superpower",
+                    "Earthquake"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Wishiwashi-School",
+                "Item": "Assault Vest",
+                "Level": "Player's Highest Lv -1",
+                "Nature": "Quiet",
+                "Ability": "Schooling",
+                "Moves": [
+                    "Hydro Pump",
+                    "Ice Beam",
+                    "Hidden Power Grass",
+                    "Flip Turn"
+                ],
+                "EVs": ""
+            },
+            {
+                "Name": "Gardevoir",
+                "Form": "Mega",
+                "Item": "Gardevoirite",
+                "Level": "Player's Highest Lv",
+                "Nature": "Timid",
+                "Ability": "Pixilate",
+                "Moves": [
+                    "Moonblast",
+                    "Psychic",
+                    "Focus Blast",
+                    "Thunderbolt"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Treecko",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Dragonite",
+                "Item": "Lum Berry",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Multiscale",
+                "Moves": [
+                    "Dual Wingbeat",
+                    "Dragon Claw",
+                    "Iron Head",
+                    "Dragon Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Gorebyss",
+                "Item": "White Herb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Dazzling",
+                "Moves": [
+                    "Ice Beam",
+                    "Surf",
+                    "Moonblast",
+                    "Shell Smash"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Armarouge",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Mega Launcher",
+                "Moves": [
+                    "Armor Cannon",
+                    "Aura Sphere",
+                    "Psychic",
+                    "Shadow Ball"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Sceptile",
+                "Form": "Mega",
+                "Item": "Sceptilite",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Technician",
+                "Moves": [
+                    "Dual Chop",
+                    "Bullet Seed",
+                    "Earthquake",
+                    "Swords Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Torchic",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Metagross",
+                "Item": "Air Balloon",
+                "Level": 64,
+                "Nature": "Adamant",
+                "Ability": "Tough Claws",
+                "Moves": [
+                    "Meteor Mash",
+                    "Earthquake",
+                    "Zen Headbutt",
+                    "Bullet Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Whimsicott",
+                "Item": "Leftovers",
+                "Level": 64,
+                "Nature": "Timid",
+                "Ability": "Prankster",
+                "Moves": [
+                    "Giga Drain",
+                    "Moonblast",
+                    "Leech Seed",
+                    "Stun Spore"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Basculegion-F",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Adaptability",
+                "Moves": [
+                    "Scald",
+                    "Ice Beam",
+                    "Psychic",
+                    "Shadow Ball"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Blaziken",
+                "Form": "Mega",
+                "Item": "Blazikenite",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Striker",
+                "Moves": [
+                    "Thunderous Kick",
+                    "Blaze Kick",
+                    "Thunder Punch",
+                    "Bulk Up"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Mudkip",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Goodra-Hisui",
+                "Item": "Leftovers",
+                "Level": 64,
+                "Nature": "Calm",
+                "Ability": "Sap Sipper",
+                "Moves": [
+                    "Dragon Pulse",
+                    "Wish",
+                    "Flash Cannon",
+                    "Toxic"
+                ],
+                "EVs": "252 HP / 6 SpA / 252 SpD"
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Item": "Air Balloon",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Flash Fire",
+                "Moves": [
+                    "Fire Lash",
+                    "Will-O-Wisp",
+                    "Wild Charge",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Electrode-Hisui",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Reckless",
+                "Moves": [
+                    "Thunderbolt",
+                    "Volt Switch",
+                    "Flash Cannon",
+                    "Toxic"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Swampert",
+                "Form": "Mega",
+                "Item": "Swampertite",
+                "Level": 64,
+                "Nature": "Adamant",
+                "Ability": "Swift Swim",
+                "Moves": [
+                    "Liquidation",
+                    "Earthquake",
+                    "Power-Up Punch",
+                    "Avalanche"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Treecko",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Dragonite",
+                "Item": "Lum Berry",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Multiscale",
+                "Moves": [
+                    "Dual Wingbeat",
+                    "Dragon Claw",
+                    "Iron Head",
+                    "Dragon Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Gorebyss",
+                "Item": "Sitrus Berry",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Dazzling",
+                "Moves": [
+                    "Aurora Beam",
+                    "Water Pulse",
+                    "Draining Kiss",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Kubfu",
+                "Item": "Punching Glove",
+                "Level": 64,
+                "Nature": "Adamant",
+                "Ability": "Inner Focus",
+                "Moves": [
+                    "Drain Punch",
+                    "Fire Punch",
+                    "Thunder Punch",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Grovyle",
+                "Item": "Focus Sash",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Overgrow",
+                "Moves": [
+                    "Leaf Blade",
+                    "Rock Slide",
+                    "Power‑Up Punch",
+                    "Low Sweep"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Torchic",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Metagross",
+                "Item": "Air Balloon",
+                "Level": 64,
+                "Nature": "Adamant",
+                "Ability": "Tough Claws",
+                "Moves": [
+                    "Meteor Mash",
+                    "Earthquake",
+                    "Zen Headbutt",
+                    "Bullet Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Whimsicott",
+                "Item": "Leftovers",
+                "Level": 64,
+                "Nature": "Timid",
+                "Ability": "Prankster",
+                "Moves": [
+                    "Giga Drain",
+                    "Moonblast",
+                    "Leech Seed",
+                    "Stun Spore"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Basculegion-F",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Adaptability",
+                "Moves": [
+                    "Scald",
+                    "Ice Beam",
+                    "Psychic",
+                    "Shadow Ball"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Blaziken",
+                "Form": "Mega",
+                "Item": "Blazikenite",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Striker",
+                "Moves": [
+                    "Thunderous Kick",
+                    "Blaze Kick",
+                    "Thunder Punch",
+                    "Bulk Up"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Mudkip",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Goodra-Hisui",
+                "Item": "Leftovers",
+                "Level": 64,
+                "Nature": "Calm",
+                "Ability": "Sap Sipper",
+                "Moves": [
+                    "Dragon Pulse",
+                    "Wish",
+                    "Flash Cannon",
+                    "Toxic"
+                ],
+                "EVs": "252 HP / 6 SpA / 252 SpD"
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Item": "Air Balloon",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Flash Fire",
+                "Moves": [
+                    "Fire Lash",
+                    "Will-O-Wisp",
+                    "Play Rough",
+                    "Wild Charge"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Electrode-Hisui",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Reckless",
+                "Moves": [
+                    "Thunderbolt",
+                    "Chloroblast",
+                    "Volt Switch",
+                    "Flash Cannon"
+                ],
+                "IVs": "30 Atk / 30 Def",
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Swampert",
+                "Form": "Mega",
+                "Item": "Swampertite",
+                "Level": 64,
+                "Nature": "Adamant",
+                "Ability": "Swift Swim",
+                "Moves": [
+                    "Liquidation",
+                    "Earthquake",
+                    "Power-Up Punch",
+                    "Avalanche"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Treecko",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Dragonite",
+                "Item": "Lum Berry",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Multiscale",
+                "Moves": [
+                    "Dual Wingbeat",
+                    "Dragon Claw",
+                    "Iron Head",
+                    "Dragon Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Gorebyss",
+                "Item": "White Herb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Dazzling",
+                "Moves": [
+                    "Ice Beam",
+                    "Surf",
+                    "Moonblast",
+                    "Shell Smash"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Armarouge",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Mega Launcher",
+                "Moves": [
+                    "Armor Cannon",
+                    "Aura Sphere",
+                    "Psychic",
+                    "Shadow Ball"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Sceptile",
+                "Form": "Mega",
+                "Item": "Sceptilite",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Technician",
+                "Moves": [
+                    "Dual Chop",
+                    "Bullet Seed",
+                    "Earthquake",
+                    "Swords Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Torchic",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Metagross",
+                "Item": "Air Balloon",
+                "Level": 64,
+                "Nature": "Adamant",
+                "Ability": "Tough Claws",
+                "Moves": [
+                    "Meteor Mash",
+                    "Earthquake",
+                    "Zen Headbutt",
+                    "Bullet Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Whimsicott",
+                "Item": "Leftovers",
+                "Level": 64,
+                "Nature": "Timid",
+                "Ability": "Prankster",
+                "Moves": [
+                    "Giga Drain",
+                    "Moonblast",
+                    "Leech Seed",
+                    "Stun Spore"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Basculegion-F",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Adaptability",
+                "Moves": [
+                    "Scald",
+                    "Ice Beam",
+                    "Psychic",
+                    "Shadow Ball"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Blaziken",
+                "Form": "Mega",
+                "Item": "Blazikenite",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Striker",
+                "Moves": [
+                    "Thunderous Kick",
+                    "Blaze Kick",
+                    "Thunder Punch",
+                    "Bulk Up"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Mudkip",
+        "Location": "Route 119",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Haze",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Goodra-Hisui",
+                "Item": "Leftovers",
+                "Level": 64,
+                "Nature": "Calm",
+                "Ability": "Sap Sipper",
+                "Moves": [
+                    "Dragon Pulse",
+                    "Wish",
+                    "Flash Cannon",
+                    "Toxic"
+                ],
+                "EVs": "252 HP / 6 SpA / 252 SpD"
+            },
+            {
+                "Name": "Rapidash-Galar",
+                "Item": "Air Balloon",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Flash Fire",
+                "Moves": [
+                    "Fire Lash",
+                    "Will-O-Wisp",
+                    "Play Rough",
+                    "Wild Charge"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 64,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Drain Punch",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Electrode-Hisui",
+                "Item": "Life Orb",
+                "Level": 64,
+                "Nature": "Modest",
+                "Ability": "Reckless",
+                "Moves": [
+                    "Thunderbolt",
+                    "Chloroblast",
+                    "Volt Switch",
+                    "Flash Cannon"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Swampert",
+                "Form": "Mega",
+                "Item": "Swampertite",
+                "Level": 64,
+                "Nature": "Adamant",
+                "Ability": "Swift Swim",
+                "Moves": [
+                    "Liquidation",
+                    "Earthquake",
+                    "Power-Up Punch",
+                    "Avalanche"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Treecko",
+        "Location": "Evergrande City",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Leech Life",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Dragonite",
+                "Item": "Lum Berry",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Multiscale",
+                "Moves": [
+                    "Dual Wingbeat",
+                    "Dragon Claw",
+                    "Iron Head",
+                    "Dragon Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Tapu Fini",
+                "Item": "Misty Seed",
+                "Level": 84,
+                "Nature": "Timid",
+                "Ability": "Misty Surge",
+                "Moves": [
+                    "Ice Beam",
+                    "Hydro Pump",
+                    "Moonblast",
+                    "Grass Knot"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Close Combat",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Volcarona",
+                "Item": "Heavy-Duty Boots",
+                "Level": 84,
+                "Nature": "Timid",
+                "Ability": "Flame Body",
+                "Moves": [
+                    "Fiery Dance",
+                    "Bug Buzz",
+                    "Quiver Dance",
+                    "Giga Drain"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Sceptile",
+                "Form": "Mega",
+                "Item": "Sceptilite",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Technician",
+                "Moves": [
+                    "Dual Chop",
+                    "Bullet Seed",
+                    "Earthquake",
+                    "Swords Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Torchic",
+        "Location": "Evergrande City",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Leech Life",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Metagross",
+                "Item": "Air Balloon",
+                "Level": 84,
+                "Nature": "Adamant",
+                "Ability": "Tough Claws",
+                "Moves": [
+                    "Meteor Mash",
+                    "Earthquake",
+                    "Zen Headbutt",
+                    "Bullet Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Tapu Bulu",
+                "Item": "Grassy Seed",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Grassy Surge",
+                "Moves": [
+                    "Wood Hammer",
+                    "Play Rough",
+                    "Superpower",
+                    "Zen Headbutt"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Close Combat",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Milotic",
+                "Item": "Leftovers",
+                "Level": 84,
+                "Nature": "Bold",
+                "Ability": "Competitive",
+                "Moves": [
+                    "Bouncy Bubble",
+                    "Ice Beam",
+                    "Recover",
+                    "Toxic"
+                ],
+                "EVs": "252 HP / 252 Def / 6 SpA"
+            },
+            {
+                "Name": "Blaziken",
+                "Form": "Mega",
+                "Item": "Blazikenite",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Striker",
+                "Moves": [
+                    "Thunderous Kick",
+                    "Blaze Kick",
+                    "Thunder Punch",
+                    "Bulk Up"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "May/Brendan",
+        "Starter": "Mudkip",
+        "Location": "Evergrande City",
+        "Team": [
+            {
+                "Name": "Crobat",
+                "Item": "Scope Lens",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Sniper",
+                "Moves": [
+                    "Brave Bird",
+                    "Cross Poison",
+                    "Leech Life",
+                    "U-turn"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Goodra-Hisui",
+                "Item": "Leftovers",
+                "Level": 84,
+                "Nature": "Calm",
+                "Ability": "Sap Sipper",
+                "Moves": [
+                    "Dragon Pulse",
+                    "Wish",
+                    "Flash Cannon",
+                    "Toxic"
+                ],
+                "EVs": "252 HP / 6 SpA / 252 SpD"
+            },
+            {
+                "Name": "Tapu Koko",
+                "Item": "Electric Seed",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Electric Surge",
+                "Moves": [
+                    "Supercell Slam",
+                    "Return",
+                    "Play Rough",
+                    "Roost"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Urshifu",
+                "Item": "Expert Belt",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Unseen Fist",
+                "Moves": [
+                    "Close Combat",
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Ice Punch"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Ogerpon-Hearthflame",
+                "Item": "Hearthflame Mask",
+                "Level": 84,
+                "Nature": "Jolly",
+                "Ability": "Mold Breaker",
+                "Moves": [
+                    "Ivy Cudgel",
+                    "Wood Hammer",
+                    "Throat Chop",
+                    "Swords Dance"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Swampert",
+                "Form": "Mega",
+                "Item": "Swampertite",
+                "Level": 84,
+                "Nature": "Adamant",
+                "Ability": "Swift Swim",
+                "Moves": [
+                    "Liquidation",
+                    "Earthquake",
+                    "Power-Up Punch",
+                    "Avalanche"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "Wally",
+        "Location": "Victory Road",
+        "Team": [
+            {
+                "Name": "Sneasler",
+                "Item": "Focus Sash",
+                "Level": 65,
+                "Nature": "Jolly",
+                "Ability": "Unburden",
+                "Moves": [
+                    "Taunt",
+                    "Dire Claw",
+                    "Close Combat",
+                    "Knock Off"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Galvantula",
+                "Item": "Expert Belt",
+                "Level": 65,
+                "Nature": "Timid",
+                "Ability": "Compound Eyes",
+                "Moves": [
+                    "Bug Buzz",
+                    "Thunder",
+                    "Giga Drain",
+                    "Volt Switch"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            },
+            {
+                "Name": "Corviknight",
+                "Item": "Rocky Helmet",
+                "Level": 65,
+                "Nature": "Impish",
+                "Ability": "Unnerve",
+                "Moves": [
+                    "Body Press",
+                    "Drill Peck",
+                    "Iron Head",
+                    "Roost"
+                ],
+                "EVs": "252 HP / 6 Atk / 252 Def"
+            },
+            {
+                "Name": "Darmanitan",
+                "Item": "Life Orb",
+                "Level": 65,
+                "Nature": "Jolly",
+                "Ability": "Sheer Force",
+                "Moves": [
+                    "Flare Blitz",
+                    "Rock Slide",
+                    "Superpower",
+                    "Earthquake"
+                ],
+                "EVs": "6 HP / 252 Atk / 252 Spe"
+            },
+            {
+                "Name": "Wishiwashi",
+                "Form": "School",
+                "Item": "Assault Vest",
+                "Level": 65,
+                "Nature": "Quiet",
+                "Ability": "Schooling",
+                "Moves": [
+                    "Hydro Pump",
+                    "Ice Beam",
+                    "Hidden Power Grass",
+                    "Flip Turn"
+                ],
+                "EVs": "252 HP / 6 SpA / 252 SpA"
+            },
+            {
+                "Name": "Gardevoir",
+                "Form": "Mega",
+                "Item": "Gardevoirite",
+                "Level": 65,
+                "Nature": "Timid",
+                "Ability": "Pixilate",
+                "Moves": [
+                    "Moonblast",
+                    "Psychic",
+                    "Focus Blast",
+                    "Thunderbolt"
+                ],
+                "EVs": "6 HP / 252 SpA / 252 Spe"
+            }
+        ]
+    },
+    {
+        "Trainer": "Team Aqua Grunts & Admins",
+        "Battles": [
+            {
+                "Name": "Grunt (Petalburg Woods)",
+                "Location": "Petalburg Woods",
+                "Team": [
+                    {
+                        "Name": "Poochyena",
+                        "LevelOffset": -2,
+                        "Nature": "Adamant",
+                        "Ability": "Quick Feet",
+                        "Moves": [
+                            "Bite",
+                            "Tackle"
+                        ]
+                    },
+                    {
+                        "Name": "Carvanha",
+                        "LevelOffset": -2,
+                        "Nature": "Adamant",
+                        "Ability": "Rough Skin",
+                        "Moves": [
+                            "Aqua Jet",
+                            "Bite"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "Grunt (Whismur Cave)",
+                "Location": "Whismur Cave",
+                "Terrain": "Misty Terrain",
+                "Team": [
+                    {
+                        "Name": "Glameow",
+                        "Item": "Silk Scarf",
+                        "LevelOffset": -2,
+                        "Nature": "Hardy",
+                        "Ability": "Own Tempo",
+                        "Moves": [
+                            "Fake Out",
+                            "Knock Off",
+                            "U-turn",
+                            "Facade"
+                        ]
+                    },
+                    {
+                        "Name": "Mightyena",
+                        "Item": "Muscle Band",
+                        "LevelOffset": -2,
+                        "Nature": "Adamant",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Bite",
+                            "Sucker Punch",
+                            "Fire Fang",
+                            "Thunder Fang"
+                        ]
+                    },
+                    {
+                        "Name": "Spoink",
+                        "Item": "Sitrus Berry",
+                        "LevelOffset": -2,
+                        "Nature": "Calm",
+                        "Ability": "Gluttony",
+                        "Moves": [
+                            "Psybeam",
+                            "Grass Knot",
+                            "Flash",
+                            "Icy Wind"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "Grunt1 & Grunt2 (Slateport Museum)",
+                "Location": "Slateport Museum",
+                "Team": [
+                    {
+                        "Name": "Lokix",
+                        "Item": "Muscle Band",
+                        "Level": 30,
+                        "Nature": "Adamant",
+                        "Ability": "Tinted Lens",
+                        "Moves": [
+                            "First Impression",
+                            "Lunge",
+                            "Assurance",
+                            "Double Kick"
+                        ]
+                    },
+                    {
+                        "Name": "Qwilfish",
+                        "Item": "Wacan Berry",
+                        "Level": 28,
+                        "Nature": "Jolly",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Barb Barrage",
+                            "Waterfall",
+                            "Aqua Jet",
+                            "Revenge"
+                        ]
+                    },
+                    {
+                        "Name": "Golisopod",
+                        "Item": "Muscle Band",
+                        "Level": 30,
+                        "Nature": "Adamant",
+                        "Ability": "Emergency Exit",
+                        "Moves": [
+                            "First Impression",
+                            "Razor Shell",
+                            "Aqua Jet",
+                            "Leech Life"
+                        ]
+                    },
+                    {
+                        "Name": "Palpitoad",
+                        "Item": "Eviolite",
+                        "Level": 28,
+                        "Nature": "Timid",
+                        "Ability": "Water Absorb",
+                        "Moves": [
+                            "Bubble Beam",
+                            "Icy Wind",
+                            "Mud Bomb",
+                            "Uproar"
+                        ]
+                    },
+                    {
+                        "Name": "Qwilfish-Hisui",
+                        "Item": "Shuca Berry",
+                        "Level": 28,
+                        "Nature": "Jolly",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Barb Barrage",
+                            "Throat Chop",
+                            "Fell Stinger",
+                            "Flip Turn"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "Admin Matt (Weather Institute)",
+                "Location": "Weather Institute",
+                "Team": [
+                    {
+                        "Name": "Machamp-Mega",
+                        "Item": "Machampite",
+                        "Level": 64,
+                        "Nature": "Adamant",
+                        "Ability": "ORAORAORAORA",
+                        "Moves": [
+                            "Mach Punch",
+                            "Drain Punch",
+                            "Thunder Punch",
+                            "Fire Punch"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Ogerpon-Wellspring",
+                        "Item": "Wellspring Mask",
+                        "Level": 64,
+                        "Nature": "Jolly",
+                        "Ability": "Water Absorb",
+                        "Moves": [
+                            "Ivy Cudgel",
+                            "Horn Leech",
+                            "Throat Chop",
+                            "Play Rough"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Greninja-Bond",
+                        "Item": "Expert Belt",
+                        "Level": 64,
+                        "Nature": "Timid",
+                        "Ability": "Battle Bond",
+                        "Moves": [
+                            "Dark Pulse",
+                            "Surf",
+                            "Ice Beam",
+                            "Grass Knot"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Armaldo",
+                        "Item": "Passho Berry",
+                        "Level": 63,
+                        "Nature": "Adamant",
+                        "Ability": "Skill Link",
+                        "Moves": [
+                            "Rock Blast",
+                            "Pin Missile",
+                            "Swords Dance",
+                            "Stomping Tantrum"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Starmie",
+                        "Item": "Focus Sash",
+                        "Level": 63,
+                        "Nature": "Timid",
+                        "Ability": "Illuminate",
+                        "Moves": [
+                            "Hydro Pump",
+                            "Psychic",
+                            "Ice Beam",
+                            "Thunder"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Iron Jugulis",
+                        "Item": "Life Orb",
+                        "Level": 63,
+                        "Nature": "Timid",
+                        "Ability": "Quark Drive",
+                        "Moves": [
+                            "Air Slash",
+                            "Dark Pulse",
+                            "Dragon Pulse",
+                            "Earth Power"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Admin Shelly (Weather Institute)",
+                "Location": "Weather Institute",
+                "Team": [
+                    {
+                        "Name": "Huntail",
+                        "Item": "White Herb",
+                        "Level": 64,
+                        "Nature": "Jolly",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Wave Crash",
+                            "Crunch",
+                            "Ice Fang",
+                            "Shell Smash"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Keldeo-Resolute",
+                        "Item": "Choice Specs",
+                        "Level": 64,
+                        "Nature": "Timid",
+                        "Ability": "Sharpness",
+                        "Moves": [
+                            "Secret Sword",
+                            "Air Slash",
+                            "Hydro Pump",
+                            "Hidden Power Grass"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Haxorus",
+                        "Item": "Lum Berry",
+                        "Level": 64,
+                        "Nature": "Jolly",
+                        "Ability": "Mold Breaker",
+                        "Moves": [
+                            "Dual Chop",
+                            "Earthquake",
+                            "Poison Jab",
+                            "Dragon Dance"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Decidueye",
+                        "Item": "Assault Vest",
+                        "Level": 64,
+                        "Nature": "Jolly",
+                        "Ability": "Tinted Lens",
+                        "Moves": [
+                            "Shadow Sneak",
+                            "Spirit Shackle",
+                            "Leaf Blade",
+                            "Thousand Arrows"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Braviary-Hisui",
+                        "Item": "Life Orb",
+                        "Level": 64,
+                        "Nature": "Modest",
+                        "Ability": "Sheer Force",
+                        "Moves": [
+                            "Psychic",
+                            "Air Slash",
+                            "Heat Wave",
+                            "Roost"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Gyarados-Mega",
+                        "Item": "Gyaradosite",
+                        "Level": 64,
+                        "Nature": "Jolly",
+                        "Ability": "Mold Breaker (starts as Intimidate)",
+                        "Moves": [
+                            "Crunch",
+                            "Earthquake",
+                            "Dragon Dance"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Archie (Aqua Hideout)",
+                "Location": "Aqua Hideout",
+                "Team": [
+                    {
+                        "Name": "Overqwil",
+                        "Item": "Focus Sash",
+                        "Level": 74,
+                        "Nature": "Jolly",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Toxic Spikes",
+                            "Haze",
+                            "Barb Barrage",
+                            "Throat Chop"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Basculegion",
+                        "Item": "Assault Vest",
+                        "Level": 74,
+                        "Nature": "Adamant",
+                        "Ability": "Adaptability",
+                        "Moves": [
+                            "Spirit Shackle",
+                            "Wave Crash",
+                            "Superpower",
+                            "Shadow Sneak"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Eelektross",
+                        "Item": "Expert Belt",
+                        "Level": 74,
+                        "Nature": "Timid",
+                        "Ability": "Levitate",
+                        "Moves": [
+                            "Thunderbolt",
+                            "Flamethrower",
+                            "Dragon Pulse",
+                            "Thunderclap"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Poliwrath",
+                        "Item": "Life Orb",
+                        "Level": 74,
+                        "Nature": "Jolly",
+                        "Ability": "Water Absorb",
+                        "Moves": [
+                            "Surging Strikes",
+                            "Close Combat",
+                            "Poison Jab",
+                            "Jet Punch"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Iron Bundle",
+                        "Item": "Booster Energy",
+                        "Level": 74,
+                        "Nature": "Timid",
+                        "Ability": "Quark Drive",
+                        "Moves": [
+                            "Hydro Pump",
+                            "Ice Beam",
+                            "Freeze-Dry",
+                            "Hidden Power Flying"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Sharpedo-Mega",
+                        "Item": "Sharpedonite",
+                        "Level": 74,
+                        "Nature": "Jolly",
+                        "Ability": "Strong Jaw",
+                        "Moves": [
+                            "Crunch",
+                            "Psychic Fangs",
+                            "Aqua Jet",
+                            "Aqua Fang"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Admin Shelly & Admin Matt (Seafloor Cavern)",
+                "Location": "Seafloor Cavern",
+                "Team": [
+                    {
+                        "Name": "Keldeo-Resolute",
+                        "Item": "Life Orb",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Sharpness",
+                        "Moves": [
+                            "Shadow Sneak",
+                            "Secret Sword",
+                            "Air Slash",
+                            "Hydro Pump",
+                            "Hidden Power Grass"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Decidueye",
+                        "Item": "Focus Sash",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Tinted Lens",
+                        "Moves": [
+                            "Dragon Pulse",
+                            "Spirit Shackle",
+                            "Leaf Blade",
+                            "Thousand Arrows"
+                        ],
+                        "EVs": "252 HP / 6 SpA / 252 SpD"
+                    },
+                    {
+                        "Name": "Goodra-Hisui",
+                        "Item": "Assault Vest",
+                        "Level": 80,
+                        "Nature": "Calm",
+                        "Ability": "Sap Sipper",
+                        "Moves": [
+                            "Aqua Tail",
+                            "Thunderbolt",
+                            "Flash Cannon",
+                            "Ice Beam"
+                        ],
+                        "EVs": "252 HP / 6 SpA / 252 SpD"
+                    },
+                    {
+                        "Name": "Gyarados-Mega",
+                        "Item": "Gyaradosite",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Mold Breaker (starts as Intimidate)",
+                        "Moves": [
+                            "Crunch",
+                            "Earthquake",
+                            "Dragon Dance"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Froslass",
+                        "Item": "Wide Lens",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Stakeout",
+                        "Moves": [
+                            "Poltergeist",
+                            "Ice Shard",
+                            "Ice Beam",
+                            "Wake‑Up Slap"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Greninja-Bond",
+                        "Item": "Expert Belt",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Battle Bond",
+                        "Moves": [
+                            "Surf",
+                            "Ice Beam",
+                            "Grass Knot",
+                            "Dark Pulse"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Dragonite",
+                        "Item": "Heavy‑Duty Boots",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Multiscale",
+                        "Moves": [
+                            "Dragon Claw",
+                            "Dual Wingbeat",
+                            "Earthquake",
+                            "Dragon Dance"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Machamp‑Mega",
+                        "Item": "Machampite",
+                        "Level": 80,
+                        "Nature": "Adamant",
+                        "Ability": "ORAORAORAORA",
+                        "Moves": [
+                            "Mach Punch",
+                            "Drain Punch",
+                            "Thunder Punch",
+                            "Fire Punch"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Archie (Seafloor Cavern)",
+                "Location": "Seafloor Cavern (Double Battle)",
+                "Team": [
+                    {
+                        "Name": "Iron Bundle",
+                        "Item": "Booster Energy",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Quark Drive",
+                        "Moves": [
+                            "Dynamic Punch",
+                            "Hydro Pump",
+                            "Icy Wind",
+                            "Freeze‑Dry"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Golurk",
+                        "Item": "Focus Sash",
+                        "Level": 80,
+                        "Nature": "Adamant",
+                        "Ability": "No Guard",
+                        "Moves": [
+                            "Poltergeist",
+                            "Stone Edge",
+                            "Headlong Rush",
+                            "Dynamic Punch"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Eelektross",
+                        "Item": "Expert Belt",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Fatal Precision",
+                        "Moves": [
+                            "Thunderbolt",
+                            "Flamethrower",
+                            "Dragon Pulse",
+                            "Thunderclap"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Quaquaval",
+                        "Item": "Life Orb",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Moxie",
+                        "Moves": [
+                            "Aqua Step",
+                            "Close Combat",
+                            "Ice Spinner",
+                            "Brave Bird"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Sharpedo‑Mega",
+                        "Item": "Sharpedonite",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Strong Jaw",
+                        "Moves": [
+                            "Crunch",
+                            "Psychic Fangs",
+                            "Aqua Jet",
+                            "Aqua Fang"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Kyogre‑Primal",
+                        "Item": "Blue Orb",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Primordial Sea",
+                        "Moves": [
+                            "Origin Pulse",
+                            "Thunder",
+                            "Ice Beam",
+                            "Water Spout"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Trainer": "Team Magma Grunts & Admins",
+        "Battles": [
+            {
+                "Name": "Grunt 2",
+                "Location": "Mt. Chimney",
+                "Team": [
+                    {
+                        "Name": "Cradily",
+                        "Item": "Chople Berry",
+                        "Level": 42,
+                        "Nature": "Modest",
+                        "Ability": "Storm Drain",
+                        "Moves": [
+                            "Power Gem",
+                            "Giga Drain",
+                            "Earth Power",
+                            "Sludge Bomb"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Bombirdier",
+                        "Item": "Expert Belt",
+                        "Level": 42,
+                        "Nature": "Jolly",
+                        "Ability": "Rocky Payload",
+                        "Moves": [
+                            "Knock Off",
+                            "Dual Wingbeat",
+                            "Sucker Punch",
+                            "Rock Slide"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Iron Thorns",
+                        "Item": "Air Balloon",
+                        "Level": 43,
+                        "Nature": "Adamant",
+                        "Ability": "Solid Rock",
+                        "Moves": [
+                            "Rock Slide",
+                            "Supercell Slam",
+                            "Ice Punch",
+                            "Accelerock"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Centiskorch-Mega",
+                        "Item": "Centiskite",
+                        "Level": 43,
+                        "Nature": "Jolly",
+                        "Ability": "Mountaineer",
+                        "Moves": [
+                            "Fire Lash",
+                            "Crunch",
+                            "Power Whip",
+                            "X-Scissor"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Serperior",
+                        "Item": "Focus Sash",
+                        "Level": 43,
+                        "Nature": "Timid",
+                        "Ability": "Contrary",
+                        "Moves": [
+                            "Leaf Storm",
+                            "Glare",
+                            "Dragon Pulse"
+                        ],
+                        "EVs": "Hidden Power Ice"
+                    },
+                    {
+                        "Name": "Tauros-Paldea-Blaze",
+                        "Item": "Life Orb",
+                        "Level": 43,
+                        "Nature": "Jolly",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Stone Edge",
+                            "Raging Bull",
+                            "Close Combat",
+                            "Zen Headbutt"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Admin Tabitha",
+                "Location": "Mt. Chimney",
+                "Team": [
+                    {
+                        "Name": "Emboar",
+                        "Item": "Muscle Band",
+                        "Level": 44,
+                        "Nature": "Adamant",
+                        "Ability": "Bull Rush",
+                        "Moves": [
+                            "Flare Blitz",
+                            "Jump Kick",
+                            "Sucker Punch",
+                            "Earthquake"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Arcanine-Hisui",
+                        "Item": "Expert Belt",
+                        "Level": 43,
+                        "Nature": "Jolly",
+                        "Ability": "Rock Head",
+                        "Moves": [
+                            "Flare Blitz",
+                            "Head Smash",
+                            "Accelerock",
+                            "Wild Charge"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Conkeldurr",
+                        "Item": "Life Orb",
+                        "Level": 43,
+                        "Nature": "Adamant",
+                        "Ability": "Sheer Force",
+                        "Moves": [
+                            "Low Sweep",
+                            "Mach Punch",
+                            "Ice Punch",
+                            "Bulk Up"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Salazzle",
+                        "Item": "Air Balloon",
+                        "Level": 43,
+                        "Nature": "Timid",
+                        "Ability": "Corrosion",
+                        "Moves": [
+                            "Flamethrower",
+                            "Flamethrower",
+                            "Toxic",
+                            "Sludge Bomb"
+                        ],
+                        "EVs": "Hidden Power Grass"
+                    },
+                    {
+                        "Name": "Houndoom-Mega",
+                        "Item": "Houndoominite",
+                        "Level": 44,
+                        "Nature": "Timid",
+                        "Ability": "Dark Aura",
+                        "Moves": [
+                            "Flamethrower",
+                            "Dark Pulse",
+                            "Sludge Bomb",
+                            "Scorching Sands"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Maxie",
+                "Location": "Mt. Chimney",
+                "Team": [
+                    {
+                        "Name": "Gigalith",
+                        "Item": "Custap Berry",
+                        "Level": 44,
+                        "Nature": "Adamant",
+                        "Ability": "Sturdy",
+                        "Moves": [
+                            "Rock Slide",
+                            "Earthquake",
+                            "Explosion",
+                            "Body Press"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Cacturne",
+                        "Item": "Life Orb",
+                        "Level": 44,
+                        "Nature": "Mild",
+                        "Ability": "Water Absorb",
+                        "Moves": [
+                            "Energy Ball",
+                            "Sucker Punch",
+                            "Dark Pulse",
+                            "Scorching Sands"
+                        ],
+                        "EVs": "6 Atk / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Coalossal",
+                        "Item": "Air Balloon",
+                        "Level": 44,
+                        "Nature": "Relaxed",
+                        "Ability": "Steam Engine",
+                        "Moves": [
+                            "Flamethrower",
+                            "Rock Slide",
+                            "Will-O-Wisp",
+                            "Scald"
+                        ],
+                        "EVs": "252 HP / 252 Def / 6 SpD"
+                    },
+                    {
+                        "Name": "Hawlucha",
+                        "Item": "White Herb",
+                        "Level": 44,
+                        "Nature": "Jolly",
+                        "Ability": "Unburden",
+                        "Moves": [
+                            "Close Combat",
+                            "Acrobatics",
+                            "Swords Dance",
+                            "Poison Jab"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Chi-Yu",
+                        "Item": "Choice Specs",
+                        "Level": 44,
+                        "Nature": "Timid",
+                        "Ability": "Beads of Ruin",
+                        "Moves": [
+                            "Flamethrower",
+                            "Flamethrower",
+                            "Dark Pulse",
+                            "Psychic"
+                        ],
+                        "EVs": "Hidden Power Grass"
+                    },
+                    {
+                        "Name": "Camerupt-Mega",
+                        "Item": "Cameruptite",
+                        "Level": 44,
+                        "Nature": "Modest",
+                        "Ability": "Sheer Force",
+                        "Moves": [
+                            "Ancient Power",
+                            "Earth Power",
+                            "Slack Off"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Admin Courtney",
+                "Location": "Magma Hideout",
+                "Team": [
+                    {
+                        "Name": "Talonflame",
+                        "Item": "Focus Sash",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Gale Wings",
+                        "Moves": [
+                            "Tailwind",
+                            "Brave Bird",
+                            "Flare Blitz",
+                            "U-turn"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Serperior",
+                        "Item": "Life Orb",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Contrary",
+                        "Moves": [
+                            "Leaf Storm",
+                            "Glare",
+                            "Dragon Pulse"
+                        ],
+                        "EVs": "Hidden Power Ice"
+                    },
+                    {
+                        "Name": "Kommo-o",
+                        "Item": "Throat Spray",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Overcoat",
+                        "Moves": [
+                            "Clanging Scales",
+                            "Aura Sphere",
+                            "Flash Cannon",
+                            "Clangorous Soul"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Centiskorch-Mega",
+                        "Item": "Centiskite",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Mountaineer",
+                        "Moves": [
+                            "Fire Lash",
+                            "Leech Life",
+                            "Knock Off",
+                            "Power Whip"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Pawmot",
+                        "Item": "Punching Glove",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Iron Fist",
+                        "Moves": [
+                            "Drain Punch",
+                            "Thunder Punch",
+                            "Fire Punch"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Emboar",
+                        "Item": "Life Orb",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Bull Rush",
+                        "Moves": [
+                            "Flare Blitz",
+                            "Close Combat",
+                            "Earthquake"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Hydreigon",
+                        "Item": "Choice Specs",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Levitate",
+                        "Moves": [
+                            "Dark Pulse",
+                            "Dragon Pulse",
+                            "Hydro Pump"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Houndoom-Mega",
+                        "Item": "Houndoominite",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Dark Aura",
+                        "Moves": [
+                            "Flamethrower",
+                            "Sludge Bomb",
+                            "Scorching Sands"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Name": "Maxie",
+                "Location": "Magma Hideout (Double Battle)",
+                "Team": [
+                    {
+                        "Name": "Incineroar",
+                        "Item": "Assault Vest",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Fake Out",
+                            "Darkest Lariat",
+                            "Flare Blitz",
+                            "Bulldoze"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Hawlucha",
+                        "Item": "White Herb",
+                        "Level": 80,
+                        "Nature": "Adamant",
+                        "Ability": "Unburden",
+                        "Moves": [
+                            "Close Combat",
+                            "Acrobatics",
+                            "Swords Dance",
+                            "Poison Jab"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Cacturne",
+                        "Item": "Life Orb",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Water Absorb",
+                        "Moves": [
+                            "Energy Ball",
+                            "Sucker Punch",
+                            "Dark Pulse",
+                            "Scorching Sands"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Chi-Yu",
+                        "Item": "Choice Specs",
+                        "Level": 80,
+                        "Nature": "Timid",
+                        "Ability": "Beads of Ruin",
+                        "Moves": [
+                            "Heat Wave",
+                            "Dark Pulse",
+                            "Psychic"
+                        ],
+                        "EVs": "Hidden Power Grass"
+                    },
+                    {
+                        "Name": "Camerupt-Mega",
+                        "Item": "Cameruptite",
+                        "Level": 80,
+                        "Nature": "Modest",
+                        "Ability": "Sheer Force",
+                        "Moves": [
+                            "Earth Power",
+                            "Slack Off",
+                            "Eruption"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Groudon-Primal",
+                        "Item": "Red Orb",
+                        "Level": 80,
+                        "Nature": "Jolly",
+                        "Ability": "Desolate Land",
+                        "Moves": [
+                            "Precipice Blades",
+                            "Rock Slide",
+                            "Body Press"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Location": "Trick House",
+        "Puzzles": [
+            {
+                "Puzzle": 1,
+                "Trainer": "Lass Sally",
+                "Team": [
+                    {
+                        "Name": "Arbok",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Poison Jab",
+                            "Crunch",
+                            "Sucker Punch",
+                            "Earthquake"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Grapaiai",
+                        "Item": "Normal Gem",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Poison Touch",
+                        "Moves": [
+                            "Fury Swipes",
+                            "Poison Jab",
+                            "Knock Off",
+                            "Parting Shot"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Toxicroak",
+                        "Item": "Expert Belt",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Poison Touch",
+                        "Moves": [
+                            "Fake Out",
+                            "Poison Jab",
+                            "Drain Punch",
+                            "Sucker Punch"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Gengar",
+                        "Item": "Life Orb",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Levitate",
+                        "Moves": [
+                            "Shadow Ball",
+                            "Sludge Bomb",
+                            "Psychic",
+                            "Focus Blast"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Iron Moth",
+                        "Item": "Air Balloon",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Timid",
+                        "Ability": "Quark Drive",
+                        "Moves": [
+                            "Sludge Wave",
+                            "Fiery Dance",
+                            "Dazzling Gleam",
+                            "Energy Ball"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 1,
+                "Trainer": "Lass Robin",
+                "Team": [
+                    {
+                        "Name": "Weezing-Galar",
+                        "Item": "Black Sludge",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Bold",
+                        "Ability": "Levitate",
+                        "Moves": [
+                            "Strange Steam",
+                            "Clear Smog",
+                            "Heat Wave",
+                            "Sludge Bomb"
+                        ],
+                        "EVs": "252 HP / 252 Def / 6 SpA"
+                    },
+                    {
+                        "Name": "Ariados",
+                        "Item": "Scope Lens",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Cross Poison",
+                            "Megahorn",
+                            "Sucker Punch",
+                            "Night Slash"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Tentacruel",
+                        "Item": "Leftovers",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Clear Body",
+                        "Moves": [
+                            "Hydro Pump",
+                            "Sludge Bomb",
+                            "Hex",
+                            "Toxic"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Toxtricity",
+                        "Item": "Life Orb",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Punk Rock",
+                        "Moves": [
+                            "Overdrive",
+                            "Boomburst",
+                            "Psychic Noise",
+                            "Sludge Bomb"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Garbodor-Mega",
+                        "Item": "Garbodorite",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Stench",
+                        "Moves": [
+                            "Gunk Shot",
+                            "Body Slam",
+                            "Drain Punch",
+                            "Earthquake"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Nihilego",
+                        "Item": "Air Balloon",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Timid",
+                        "Ability": "Beast Boost",
+                        "Moves": [
+                            "Sludge Wave",
+                            "Power Gem",
+                            "Dazzling Gleam",
+                            "Grass Knot"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 1,
+                "Trainer": "Youngster Eddie",
+                "Team": [
+                    {
+                        "Name": "Qwilfish",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Impish",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Toxic Spikes",
+                            "Taunt",
+                            "Flip Turn",
+                            "Explosion"
+                        ],
+                        "EVs": "252 HP / 6 Atk / 252 Def"
+                    },
+                    {
+                        "Name": "Revavroom",
+                        "Item": "Air Balloon",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Filter",
+                        "Moves": [
+                            "Gunk Shot",
+                            "Spin Out",
+                            "Shift Gear",
+                            "High Horsepower"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Drapion",
+                        "Item": "Scope Lens",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sniper",
+                        "Moves": [
+                            "Wicked Blow",
+                            "Cross Poison",
+                            "Ice Fang",
+                            "Brick Break"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Beedrill-Mega",
+                        "Item": "Beedrillite",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Adaptability",
+                        "Moves": [
+                            "Swords Dance",
+                            "X-Scissor",
+                            "Poison Jab",
+                            "Drill Run"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Naganadel",
+                        "Item": "Life Orb",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Timid",
+                        "Ability": "Beast Boost",
+                        "Moves": [
+                            "Sludge Wave",
+                            "Dragon Pulse",
+                            "Fire Blast",
+                            "Nasty Plot"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 2,
+                "Trainer": "Picnicker Rachel",
+                "Team": [
+                    {
+                        "Name": "Leavanny",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sharpness",
+                        "Moves": [
+                            "Leaf Blade",
+                            "X-Scissor",
+                            "Sacred Sword",
+                            "Swords Dance"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Electrode-Hisui",
+                        "Item": "Life Orb",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Modest",
+                        "Ability": "Reckless",
+                        "Moves": [
+                            "Chloroblast",
+                            "Thunderbolt",
+                            "Volt Switch",
+                            "Flash Cannon"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Crustle",
+                        "Item": "White Herb",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Sturdy",
+                        "Moves": [
+                            "Shell Smash",
+                            "Rock Slide",
+                            "Stone Edge"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Roserade-Mega",
+                        "Item": "Roseradite",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Technician",
+                        "Moves": [
+                            "Mega Drain",
+                            "Sludge",
+                            "Ancient Power"
+                        ],
+                        "EVs": "Hidden Power Fire"
+                    },
+                    {
+                        "Name": "Kartana",
+                        "Item": "Expert Belt",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Jolly",
+                        "Ability": "Beast Boost",
+                        "Moves": [
+                            "Leaf Blade",
+                            "Smart Strike",
+                            "Sacred Sword",
+                            "Night Slash"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 2,
+                "Trainer": "Girl Georgia",
+                "Team": [
+                    {
+                        "Name": "Trevenant",
+                        "Item": "Sitrus Berry",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Impish",
+                        "Ability": "Harvest",
+                        "Moves": [
+                            "Leech Seed",
+                            "Confuse Ray",
+                            "Horn Leech",
+                            "Poltergeist"
+                        ],
+                        "EVs": "252 HP / 6 Atk / 252 Def"
+                    },
+                    {
+                        "Name": "Toedscruel",
+                        "Item": "Yache Berry",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Clear Body",
+                        "Moves": [
+                            "Spore",
+                            "Leech Seed",
+                            "Earth Power",
+                            "Giga Drain"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Masquerain",
+                        "Item": "Expert Belt",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Intimidate",
+                        "Moves": [
+                            "Bug Buzz",
+                            "Scald",
+                            "Ice Beam",
+                            "Quiver Dance"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Butterfree",
+                        "Item": "Butterfrite",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Compound Eyes",
+                        "Moves": [
+                            "Quiver Dance",
+                            "Hurricane",
+                            "Bug Buzz",
+                            "Giga Drain"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Wo-Chien",
+                        "Item": "Leftovers",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Bold",
+                        "Ability": "Tablets of Ruin",
+                        "Moves": [
+                            "Leech Seed",
+                            "Stun Spore",
+                            "Giga Drain",
+                            "Ruination"
+                        ],
+                        "EVs": "252 HP / 252 Def / 6 SpA"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 2,
+                "Trainer": "Kid Ted",
+                "Team": [
+                    {
+                        "Name": "Kleavor",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sharpness",
+                        "Moves": [
+                            "Stone Axe",
+                            "X-Scissor",
+                            "Accelerock",
+                            "Night Slash"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Jumpluff",
+                        "Item": "Yache Berry",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Aerilate",
+                        "Moves": [
+                            "Double-Edge",
+                            "Leaf Blade",
+                            "Swords Dance",
+                            "Strength Sap"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Parasect",
+                        "Item": "Leftovers",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Dry Skin",
+                        "Moves": [
+                            "Spore",
+                            "Sappy Seed",
+                            "Leech Life",
+                            "Crabhammer"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Snorlax-Mega",
+                        "Item": "Snorlaxite",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Adamant",
+                        "Ability": "Thick Fat",
+                        "Moves": [
+                            "Body Slam",
+                            "Wood Hammer",
+                            "Earthquake",
+                            "Heavy Slam"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Pheromosa",
+                        "Item": "Expert Belt",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Mild",
+                        "Ability": "Beast Boost",
+                        "Moves": [
+                            "Bug Buzz",
+                            "Close Combat",
+                            "Aura Sphere",
+                            "Ice Beam"
+                        ],
+                        "EVs": "6 Atk / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 3,
+                "Trainer": "Camper Rusty",
+                "Team": [
+                    {
+                        "Name": "Duraludon",
+                        "Item": "Eviolite",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Relaxed",
+                        "Ability": "Heavy Metal",
+                        "Moves": [
+                            "Flash Cannon",
+                            "Dragon Pulse",
+                            "Body Press",
+                            "Dragon Tail"
+                        ],
+                        "EVs": "252 HP / 252 Def / 6 SpA"
+                    },
+                    {
+                        "Name": "Bronzong",
+                        "Item": "Occa Berry",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Relaxed",
+                        "Ability": "Levitate",
+                        "Moves": [
+                            "Psychic",
+                            "Gyro Ball",
+                            "Body Press",
+                            "Earthquake"
+                        ],
+                        "EVs": "252 HP / 252 Def / 6 SpD"
+                    },
+                    {
+                        "Name": "Gholdengo",
+                        "Item": "Air Balloon",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Timid",
+                        "Ability": "Good as Gold",
+                        "Moves": [
+                            "Nasty Plot",
+                            "Shadow Ball",
+                            "Make It Rain",
+                            "Focus Blast"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Samurott",
+                        "Item": "Assault Vest",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Sharpness",
+                        "Moves": [
+                            "Smart Strike",
+                            "Knock Off",
+                            "Razor Shell",
+                            "Sacred Sword"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Iron Crown",
+                        "Item": "Booster Energy",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Timid",
+                        "Ability": "Quark Drive",
+                        "Moves": [
+                            "Tachyon Cutter",
+                            "Psyshock",
+                            "Secret Sword",
+                            "Air Slash"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 3,
+                "Trainer": "Hiker Alan",
+                "Team": [
+                    {
+                        "Name": "Probopass",
+                        "Item": "Leftovers",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Relaxed",
+                        "Ability": "Levitate",
+                        "Moves": [
+                            "Stealth Rock",
+                            "Toxic",
+                            "Volt Switch",
+                            "Power Gem"
+                        ],
+                        "EVs": "252 HP / 252 Def / 6 SpA"
+                    },
+                    {
+                        "Name": "Ferrothorn",
+                        "Item": "Rocky Helmet",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Relaxed",
+                        "Ability": "Iron Barbs",
+                        "Moves": [
+                            "Power Whip",
+                            "Gyro Ball",
+                            "Leech Seed",
+                            "Thunder Wave"
+                        ],
+                        "EVs": "252 HP / 6 Atk / 252 Def"
+                    },
+                    {
+                        "Name": "Magnezone",
+                        "Item": "Air Balloon",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Modest",
+                        "Ability": "Sturdy",
+                        "Moves": [
+                            "Thunderbolt",
+                            "Flash Cannon",
+                            "Tri Attack",
+                            "Volt Switch"
+                        ],
+                        "EVs": "6 HP / 252 SpA / 252 Spe"
+                    },
+                    {
+                        "Name": "Steelix-Mega",
+                        "Item": "Steelixite",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Impish",
+                        "Ability": "Heatproof",
+                        "Moves": [
+                            "Earthquake",
+                            "Stone Edge",
+                            "Heavy Slam",
+                            "Curse"
+                        ],
+                        "EVs": "252 HP / 6 Atk / 252 Def"
+                    },
+                    {
+                        "Name": "Stakataka",
+                        "Item": "Air Balloon",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Impish",
+                        "Ability": "Beast Boost",
+                        "Moves": [
+                            "Gyro Ball",
+                            "Earthquake",
+                            "Rock Slide",
+                            "Body Press"
+                        ],
+                        "EVs": "252 HP / 6 Atk / 252 Def"
+                    }
+                ]
+            },
+            {
+                "Puzzle": 3,
+                "Trainer": "Camper Martha",
+                "Team": [
+                    {
+                        "Name": "Durant",
+                        "Item": "Life Orb",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Hustle",
+                        "Moves": [
+                            "Iron Head",
+                            "Superpower",
+                            "X-Scissor",
+                            "First Impression"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Bastiodon",
+                        "Item": "Focus Sash",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Sassy",
+                        "Ability": "Dauntless Shield",
+                        "Moves": [
+                            "Metal Burst",
+                            "Body Press",
+                            "Rock Slide",
+                            "Iron Head"
+                        ],
+                        "EVs": "252 HP / 6 Def / 252 SpD"
+                    },
+                    {
+                        "Name": "Skarmory",
+                        "Item": "Leftovers",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Impish",
+                        "Ability": "Sturdy",
+                        "Moves": [
+                            "Roost",
+                            "Toxic",
+                            "Fly",
+                            "Iron Head"
+                        ],
+                        "EVs": "252 HP / 6 Atk / 252 Def"
+                    },
+                    {
+                        "Name": "Kingler",
+                        "Item": "Kinglerite",
+                        "Level": "Player's Highest Lv -2",
+                        "Nature": "Jolly",
+                        "Ability": "Hyper Cutter",
+                        "Moves": [
+                            "Aqua Jet",
+                            "Liquidation",
+                            "Ice Hammer",
+                            "Iron Head"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    },
+                    {
+                        "Name": "Iron Treads",
+                        "Item": "Booster Energy",
+                        "Level": "Player's Highest Lv -1",
+                        "Nature": "Jolly",
+                        "Ability": "Quark Drive",
+                        "Moves": [
+                            "Iron Head",
+                            "Wild Charge",
+                            "Earthquake",
+                            "Knock Off"
+                        ],
+                        "EVs": "6 HP / 252 Atk / 252 Spe"
+                    }
+                ]
+            }
+        ]
+    }
+]

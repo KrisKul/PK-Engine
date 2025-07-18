@@ -1,18 +1,15 @@
-// engine.js
 import { speciesData } from './docs/speciesData.js';
 import { moveData } from './docs/moves.js';
 import fs from 'fs';
 
-// === GLOBAL CONSTRAINTS ===
 let badgeCount = 8;
 let levelCap = 100;
 
-// === LOAD TM NAME + BADGE MAPPING ===
 function loadTMs() {
   const file = fs.readFileSync('./docs/Tm-locatoins.txt', 'utf8');
   const lines = file.split('\n');
-  const tmMap = {}; // TM01 → Move
-  const tmBadges = {}; // TM01 → badge 4
+  const tmMap = {};
+  const tmBadges = {};
 
   for (let line of lines) {
     const match = line.match(/(TM\d+): (.+?) \(Requires badge (\d+)\)/);
@@ -28,7 +25,6 @@ function loadTMs() {
 
 const { tmMap, tmBadges } = loadTMs();
 
-// === TYPE CHART ===
 const typeChart = {
   Normal: { weakTo: ['Fighting'], resistances: [], immuneTo: ['Ghost'] },
   Fire: { weakTo: ['Water', 'Rock', 'Ground'], resistances: ['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy'], strongAgainst: ['Grass', 'Ice', 'Bug', 'Steel'] },
@@ -38,57 +34,60 @@ const typeChart = {
   Ground: { weakTo: ['Water', 'Ice', 'Grass'], resistances: ['Poison', 'Rock'], immuneTo: ['Electric'], strongAgainst: ['Fire', 'Electric', 'Poison', 'Rock', 'Steel'] },
   Flying: { weakTo: ['Electric', 'Rock', 'Ice'], resistances: ['Grass', 'Fighting', 'Bug'], immuneTo: ['Ground'], strongAgainst: ['Grass', 'Fighting', 'Bug'] },
   Rock: { weakTo: ['Water', 'Grass', 'Fighting', 'Steel', 'Ground'], resistances: ['Normal', 'Fire', 'Flying', 'Poison'], strongAgainst: ['Fire', 'Ice', 'Flying', 'Bug'] },
-  // Add more as needed...
 };
 
-// === GET LEGAL MOVES ===
 function getLegalMoves(pokemonName) {
   const mon = speciesData[pokemonName.toUpperCase()];
-  if (!mon) throw new Error(`Pokémon ${pokemonName} not found.`);
+  if (!mon) throw new Error(`❌ Pokémon "${pokemonName}" not found.`);
 
-  const legalMoves = new Set();
+  const levelup = [];
+  const tmhm = [];
+  const egg = [];
+  const tutor = [];
 
-  for (const [lvl, moves] of Object.entries(mon.levelUpMoves)) {
-    if (parseInt(lvl) <= levelCap) {
-      moves.forEach(m => legalMoves.add(m));
-    }
+  for (const [move, level] of mon.levelUpLearnsets || []) {
+    if (level <= levelCap) levelup.push({ move, level });
   }
 
-  for (const tm of mon.tmMoves || []) {
-    const badgeReq = tmBadges[tm];
-    const moveName = tmMap[tm];
-    if (badgeReq && badgeReq <= badgeCount && moveName) {
-      legalMoves.add(moveName);
-    }
+  for (const tmMove of mon.TMHMLearnsets || []) {
+    const badgeReq = Object.entries(tmMap).find(([, name]) => name === tmMove);
+    const tmId = badgeReq?.[0];
+    const requiredBadge = tmId ? tmBadges[tmId] : null;
+    if (!requiredBadge || requiredBadge <= badgeCount) tmhm.push(tmMove);
   }
 
-  return Array.from(legalMoves);
+  for (const move of mon.eggMovesLearnsets || []) egg.push(move);
+  for (const move of mon.tutorLearnsets || []) tutor.push(move);
+
+  const all = [
+    ...new Set([
+      ...levelup.map(obj => obj.move),
+      ...tmhm,
+      ...egg,
+      ...tutor
+    ])
+  ];
+
+  return { levelup, tmhm, egg, tutor, all };
 }
 
-// === PARSE TRAINER TEAMS ===
 function getTrainerTeam(trainerName) {
-  const raw = fs.readFileSync('./docs/trainer-battles.txt', 'utf8');
-  const lines = raw.split('\n');
-  const team = [];
-  let currentTrainer = null;
+  const raw = JSON.parse(fs.readFileSync('./docs/Trainer-battles.json', 'utf8'));
 
-  for (let line of lines) {
-    if (line.trim().endsWith(':')) {
-      currentTrainer = line.trim().replace(':', '');
-    } else if (currentTrainer === trainerName) {
-      const match = line.match(/- (.+), level (\d+), Ability: (\w+)/);
-      if (match) {
-        const [, name, level, ability] = match;
-        team.push({ name: name.trim(), level: parseInt(level), ability });
-      }
-    }
-  }
+  const trainer = Object.values(raw).find(t => t.Trainer.toLowerCase() === trainerName.toLowerCase());
+  if (!trainer) throw new Error(`❌ Trainer "${trainerName}" not found.`);
 
-  if (team.length === 0) throw new Error(`Trainer ${trainerName} not found.`);
-  return team;
+  return trainer.Team.map(p => ({
+    name: p.Name.toUpperCase(),
+    level: parseInt(p.Level),
+    ability: p.Ability,
+    moves: p.Moves,
+    item: p.Item,
+    nature: p.Nature,
+    ivs: p.IVs
+  }));
 }
 
-// === COUNTER LOGIC ===
 function buildCounterTeam(trainerName, options = {}) {
   const trainerTeam = getTrainerTeam(trainerName);
   const allMons = Object.values(speciesData);
@@ -98,18 +97,17 @@ function buildCounterTeam(trainerName, options = {}) {
     if (counterTeam.length >= 6) break;
     if (options.monotype && !mon.types.includes(options.monotype)) continue;
 
-    const legalMoves = getLegalMoves(mon.name);
-    if (legalMoves.length === 0) continue;
+    const { all: legalMoves } = getLegalMoves(mon.name);
+    if (!legalMoves || legalMoves.length === 0) continue;
 
     const stabTypes = new Set(mon.types);
-    let isEffective = false;
+    let goodCounter = false;
 
     for (const foe of trainerTeam) {
       const foeData = speciesData[foe.name.toUpperCase()];
       if (!foeData) continue;
 
-      const weaknesses = foeData.types.flatMap(t => typeChart[t]?.weakTo || []);
-      const resistances = foeData.types.flatMap(t => typeChart[t]?.resistances || []);
+      const weaknesses = foeData.types?.flatMap(t => typeChart[t]?.weakTo || []) || [];
 
       const stabCoverage = legalMoves.some(move => {
         const m = moveData[move];
@@ -117,17 +115,17 @@ function buildCounterTeam(trainerName, options = {}) {
       });
 
       if (stabCoverage) {
-        isEffective = true;
+        goodCounter = true;
         break;
       }
     }
 
-    if (isEffective) {
+    if (goodCounter) {
       counterTeam.push({
         name: mon.name,
         types: mon.types,
         speed: mon.baseStats?.speed || 0,
-        moves: legalMoves.slice(0, 4),
+        moves: legalMoves.slice(0, 4)
       });
     }
   }
@@ -135,28 +133,30 @@ function buildCounterTeam(trainerName, options = {}) {
   return counterTeam.sort((a, b) => b.speed - a.speed);
 }
 
-// === SETTERS ===
-function setBadgeCount(n) {
-  badgeCount = n;
-}
-function setLevelCap(n) {
-  levelCap = n;
-}
+function setBadgeCount(n) { badgeCount = n; }
+function setLevelCap(n) { levelCap = n; }
 
-// === GPT ROUTER ===
 function handleQuery(query) {
   const lc = query.toLowerCase();
 
   if (lc.startsWith('badge')) {
     const num = parseInt(query.split(' ')[1]);
     setBadgeCount(num);
-    return `Badge count set to ${num}`;
+    return `✔️ Badge count set to ${num}`;
   }
 
   if (lc.startsWith('level cap')) {
     const num = parseInt(query.split(' ')[2]);
     setLevelCap(num);
-    return `Level cap set to ${num}`;
+    return `✔️ Level cap set to ${num}`;
+  }
+
+  const moveMatch = query.match(/(level up|tmhm|egg|tutor) moveset for (.+)/i);
+  if (moveMatch) {
+    const section = moveMatch[1].toLowerCase().replace(' ', '');
+    const monName = moveMatch[2].trim();
+    const legal = getLegalMoves(monName);
+    return legal[section] || `❌ No ${section} moves for ${monName}`;
   }
 
   if (lc.startsWith('moveset for')) {
@@ -171,10 +171,9 @@ function handleQuery(query) {
     return buildCounterTeam(trainer, mono ? { monotype: mono } : {});
   }
 
-  return "Unrecognized query.";
+  return `❌ Unknown query. Try:\n- level up moveset for Garchomp\n- counterteam for Roxanne using only monotype Grass`;
 }
 
-// === EXPORTS ===
 export {
   getLegalMoves,
   buildCounterTeam,

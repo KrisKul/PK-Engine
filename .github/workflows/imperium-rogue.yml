@@ -24,11 +24,13 @@ jobs:
           sudo apt update
           sudo apt install -y build-essential libpng-dev libelf-dev git python3
 
-      - name: Clone pinned Imperium v1.2 source
+      - name: Fetch pinned Imperium v1.2 source
         run: |
-          git clone https://github.com/iriv24/pokeemerald-expansion.git imperium-src
+          git init imperium-src
           cd imperium-src
-          git checkout f8c9fbb73cc4f3853b056aebfc427d6e4822ea9b
+          git remote add origin https://github.com/iriv24/pokeemerald-expansion.git
+          git fetch --depth=1 origin f8c9fbb73cc4f3853b056aebfc427d6e4822ea9b
+          git checkout --detach FETCH_HEAD
           test "$(git rev-parse HEAD)" = "f8c9fbb73cc4f3853b056aebfc427d6e4822ea9b"
 
       - name: Apply Rogue patch

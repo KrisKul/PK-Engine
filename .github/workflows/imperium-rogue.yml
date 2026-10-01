@@ -19,10 +19,14 @@ jobs:
       - name: Checkout build harness
         uses: actions/checkout@v4
 
-      - name: Install build dependencies
+      - name: Verify build tools
         run: |
-          sudo apt update
-          sudo apt install -y build-essential libpng-dev libelf-dev git python3
+          git --version
+          python3 --version
+          cc --version
+          arm-none-eabi-gcc --version
+          test -f /usr/include/png.h || test -f /usr/include/libpng16/png.h
+          test -f /usr/include/libelf.h || true
 
       - name: Fetch pinned Imperium v1.2 source
         run: |

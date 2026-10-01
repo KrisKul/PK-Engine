@@ -33,6 +33,21 @@ jobs:
           git checkout --detach FETCH_HEAD
           test "$(git rev-parse HEAD)" = "f8c9fbb73cc4f3853b056aebfc427d6e4822ea9b"
 
+      - name: Use committed generated Poryscript output
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          missing = []
+          for source in Path("imperium-src/data").rglob("*.pory"):
+              generated = source.with_suffix(".inc")
+              if not generated.exists():
+                  missing.append(str(generated))
+              else:
+                  generated.touch()
+          if missing:
+              raise SystemExit("Missing generated Poryscript files:\n" + "\n".join(missing))
+          PY
+
       - name: Apply Rogue patch
         run: python3 imperium-rogue/apply_rogue_patch.py imperium-src
 

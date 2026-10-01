@@ -32,7 +32,7 @@ jobs:
           git --version
           python3 --version
           cc --version
-          arm-none-eabi-gcc --version
+          "$DEVKITARM/bin/arm-none-eabi-gcc" --version
 
       - name: Fetch pinned Imperium v1.2 source
         run: |

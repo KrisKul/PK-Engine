@@ -1,0 +1,54 @@
+name: Imperium Rogue Clean Build
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: devkitpro/devkitarm
+    env:
+      GAME_VERSION: EMERALD
+      GAME_REVISION: 0
+      GAME_LANGUAGE: ENGLISH
+      COMPARE: 0
+      UNUSED_ERROR: 1
+    steps:
+      - name: Checkout build harness
+        uses: actions/checkout@v4
+
+      - name: Install build dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y build-essential libpng-dev libelf-dev git python3
+
+      - name: Clone pinned Imperium v1.2 source
+        run: |
+          git clone https://github.com/iriv24/pokeemerald-expansion.git imperium-src
+          cd imperium-src
+          git checkout f8c9fbb73cc4f3853b056aebfc427d6e4822ea9b
+          test "$(git rev-parse HEAD)" = "f8c9fbb73cc4f3853b056aebfc427d6e4822ea9b"
+
+      - name: Apply Rogue patch
+        run: python3 imperium-rogue/apply_rogue_patch.py imperium-src
+
+      - name: Build ROM
+        run: |
+          cd imperium-src
+          make -j"$(nproc)" -O all
+
+      - name: Run source checks
+        run: |
+          cd imperium-src
+          make -j"$(nproc)" check
+
+      - name: Record ROM hash
+        run: sha256sum imperium-src/pokeemerald.gba
+
+      - name: Upload ROM
+        uses: actions/upload-artifact@v4
+        with:
+          name: Imperium-Rogue-v0.1.4-clean
+          path: imperium-src/pokeemerald.gba
